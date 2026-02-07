@@ -131,6 +131,9 @@ __pypackages__/
 celerybeat-schedule
 celerybeat.pid
 
+#secret_file json
+client_secret*
+
 # SageMath parsed files
 *.sage.py
 
@@ -153,6 +156,17 @@ venv.bak/
 
 # mkdocs documentation
 /site
+
+# data
+<<<<<<< HEAD
+<<<<<<< HEAD
+/secrets
+=======
+>>>>>>> aacd865 (first draft of teh app)
+=======
+/secrets
+>>>>>>> a79b580 (Frist commit NBA stat app)
+/input
 
 # mypy
 .mypy_cache/
