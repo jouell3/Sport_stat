@@ -7,7 +7,7 @@ from utils.data_loader import load_all_data, load_stat_dict
 
 st.title("Player Search & Statistics")
 
-df_players, _, _ = load_all_data()
+df_players, _, _, _ = load_all_data()
 stat_dict = load_stat_dict()
 
 def create_metric_subplots(player_stats, metrics2, metrics, player_name):
@@ -18,7 +18,7 @@ def create_metric_subplots(player_stats, metrics2, metrics, player_name):
         rows=int(len(metrics)/2) + len(metrics)%2,
         cols=2,
         subplot_titles=metrics2,
-        vertical_spacing=0.08
+        vertical_spacing=0.05,
     )
     j =1
     k = 0
@@ -42,14 +42,16 @@ def create_metric_subplots(player_stats, metrics2, metrics, player_name):
     
     fig.update_xaxes(title_text="Season")
     fig.update_yaxes(title_text="Value", col=1)
-    fig.update_layout(height=300 * len(metrics), title_text=f"{player_name} - Statistics by Metric", showlegend=False)
+    fig.update_layout(height=400 * (int(len(metrics)/2) + len(metrics)%2), title_text=f"{player_name} - Statistics by Metric", showlegend=False)
     
     return fig
 
 # --- Player search ---
 search = st.text_input("Enter player name (partial match, case-insensitive):")
 if search:
-    matches = df_players[df_players['player'].str.contains(search, case=False, na=False)]
+    list_players = df_players['player'].unique()
+    matches = list_players[pd.Series(list_players).str.contains(search, case=False, na=False)]
+    #matches = df_players[df_players['player'].str.contains(search, case=False, na=False)].unique()
     if len(matches) == 0:
         st.warning("No players found. Please refine your search.")
     elif len(matches) == 1:
@@ -62,7 +64,7 @@ if search:
         if metrics2:
             metrics = [key for key, value in stat_dict.items() if value in metrics2]
             fig = create_metric_subplots(player_stats, metrics2, metrics, player)
-            st.plotly_chart(fig, use_container_width=True)
+            st.plotly_chart(fig, width='stretch')
         # --- Stats table with sum and per-game avg ---
         table = player_stats.set_index('season')[metrics]
         sum_row = pd.DataFrame([table.sum()], index=['Total'])
@@ -82,7 +84,7 @@ if search:
 
     else:
         st.info(f"{len(matches)} players found. Please refine your search or select:")
-        player = st.selectbox("Select a player:", matches['player'].unique())
+        player = st.selectbox("Select a player:", matches)
         if player:
             player_stats = df_players[df_players['player'] == player].sort_values('season')
             numeric_cols2 = [col for col in player_stats.columns if player_stats[col].dtype != 'O' and col not in ['season']]
@@ -91,7 +93,7 @@ if search:
             if metrics2:
                 metrics = [key for key, value in stat_dict.items() if value in metrics2]
                 fig = create_metric_subplots(player_stats, metrics2, metrics, player)
-                st.plotly_chart(fig, use_container_width=True)
+                st.plotly_chart(fig, width='stretch')
             table = player_stats.set_index('season')[metrics]
             sum_row = pd.DataFrame([table.sum()], index=['Total'])
             games_played = player_stats['g'].sum() if 'g' in player_stats.columns else None

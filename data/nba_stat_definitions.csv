@@ -1,0 +1,36 @@
+,abbreviation,Description
+0,season,Season year or range the stats correspond to
+1,lg,"League identifier (e.g., NBA)"
+2,player,Player's full name
+3,player_id,Unique identifier for the player in the dataset
+4,age,Player's age during the season
+5,team,"Team abbreviation (e.g., LAL, BOS)"
+6,pos,"Primary playing position (PG, SG, SF, PF, C)"
+7,g,Games played
+8,gs,Games started
+9,mp,Minutes played
+10,fg,Field goals made
+11,fga,Field goals attempted
+12,fg_percent,Field‑goal percentage
+13,x3p,Three‑point field goals made
+14,x3pa,Three‑point field goals attempted
+15,x3p_percent,Three‑point percentage
+16,x2p,Two‑point field goals made
+17,x2pa,Two‑point field goals attempted
+18,x2p_percent,Two‑point percentage
+19,e_fg_percent,Effective field‑goal percentage (weights 3‑pointers as 1.5×)
+20,ft,Free throws made
+21,fta,Free throws attempted
+22,ft_percent,Free‑throw percentage
+23,orb,Offensive rebounds
+24,drb,Defensive rebounds
+25,trb,Total rebounds
+26,abbreviation,Team 3-letter abbreviation
+27,playoffs,"Participated in playoffs (1 = Yes, 0 = No)"
+28,ast,Assists
+29,stl,Steals
+30,blk,Blocks
+31,tov,Turnovers
+32,pf,Personal fouls
+33,pts,Points scored
+34,trp_dbl,Number of triple‑doubles recorded

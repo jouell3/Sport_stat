@@ -5,13 +5,14 @@ import pickle
 import streamlit as st
 
 # Paths to data
-DATA_DIR = os.path.join(os.path.dirname(__file__), '../data/NBA_stats')
+DATA_DIR = os.path.join(os.path.dirname(__file__), '../data')
 CACHE_DIR = os.path.join(os.path.dirname(__file__), '../cache')
 
 PLAYER_TOTALS = os.path.join(DATA_DIR, 'Player Totals.csv')
 TEAM_TOTALS = os.path.join(DATA_DIR, 'Team Totals.csv')
 DRAFT_HISTORY = os.path.join(DATA_DIR, 'Draft Pick History.csv')
-STAT_DICT = os.path.join(DATA_DIR, '../nba_stat_dict.npy')
+ALL_STAR = os.path.join(DATA_DIR, 'All-Star Selections.csv')
+STAT_DICT = os.path.join(DATA_DIR, 'nba_stat_dict.npy')
 UNIV_RANK_PICKLE = os.path.join(CACHE_DIR, 'university_rankings.pkl')
 
 @st.cache_data(show_spinner=False)
@@ -19,7 +20,8 @@ def load_all_data():
     df_players = pd.read_csv(PLAYER_TOTALS)
     df_teams = pd.read_csv(TEAM_TOTALS)
     df_draft = pd.read_csv(DRAFT_HISTORY)
-    return df_players, df_teams, df_draft
+    df_all_star = pd.read_csv(ALL_STAR)
+    return df_players, df_teams, df_draft, df_all_star
 
 @st.cache_data(show_spinner=False)
 def load_stat_dict():

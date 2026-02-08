@@ -1,0 +1,2005 @@
+player,player_id,team,season,lg,replaced,full_team_name
+Bam Adebayo,adebaba01,East,2024,NBA,False,Miami Heat
+Giannis Antetokounmpo,antetgi01,East,2024,NBA,False,Milwaukee Bucks
+Paolo Banchero,banchpa01,East,2024,NBA,False,Orlando Magic
+Scottie Barnes,barnesc01,East,2024,NBA,False,Toronto Raptors
+Jaylen Brown,brownja02,East,2024,NBA,False,Boston Celtics
+Jalen Brunson,brunsja01,East,2024,NBA,False,New York Knicks
+Joel Embiid,embiijo01,East,2024,NBA,True,Philadelphia 76ers
+Tyrese Haliburton,halibty01,East,2024,NBA,False,Indiana Pacers
+Damian Lillard,lillada01,East,2024,NBA,False,Milwaukee Bucks
+Tyrese Maxey,maxeyty01,East,2024,NBA,False,Philadelphia 76ers
+Donovan Mitchell,mitchdo01,East,2024,NBA,False,Cleveland Cavaliers
+Julius Randle,randlju01,East,2024,NBA,True,Minnesota Timberwolves
+Jayson Tatum,tatumja01,East,2024,NBA,False,Boston Celtics
+Trae Young,youngtr01,East,2024,NBA,False,Atlanta Hawks
+Devin Booker,bookede01,West,2024,NBA,False,Phoenix Suns
+Stephen Curry,curryst01,West,2024,NBA,False,Golden State Warriors
+Anthony Davis,davisan02,West,2024,NBA,False,Dallas Mavericks
+Luka Dončić,doncilu01,West,2024,NBA,False,Los Angeles Lakers
+Kevin Durant,duranke01,West,2024,NBA,False,Houston Rockets
+Anthony Edwards,edwaran01,West,2024,NBA,False,Minnesota Timberwolves
+Paul George,georgpa01,West,2024,NBA,False,Philadelphia 76ers
+Shai Gilgeous-Alexander,gilgesh01,West,2024,NBA,False,Oklahoma City Thunder
+LeBron James,jamesle01,West,2024,NBA,False,Los Angeles Lakers
+Nikola Jokić,jokicni01,West,2024,NBA,False,Denver Nuggets
+Kawhi Leonard,leonaka01,West,2024,NBA,False,Los Angeles Clippers
+Karl-Anthony Towns,townska01,West,2024,NBA,False,New York Knicks
+Bam Adebayo,adebaba01,East,2023,NBA,False,Miami Heat
+Giannis Antetokounmpo,antetgi01,East,2023,NBA,False,Milwaukee Bucks
+DeMar DeRozan,derozde01,East,2023,NBA,False,Sacramento Kings
+Kevin Durant,duranke01,East,2023,NBA,True,Houston Rockets
+Shai Gilgeous-Alexander,gilgesh01,East,2023,NBA,False,Oklahoma City Thunder
+Jrue Holiday,holidjr01,East,2023,NBA,False,Portland Trail Blazers
+Damian Lillard,lillada01,East,2023,NBA,False,Milwaukee Bucks
+Lauri Markkanen,markkla01,East,2023,NBA,False,Utah Jazz
+Donovan Mitchell,mitchdo01,East,2023,NBA,False,Cleveland Cavaliers
+Ja Morant,moranja01,East,2023,NBA,False,Memphis Grizzlies
+Domantas Sabonis,sabondo01,East,2023,NBA,False,Sacramento Kings
+Pascal Siakam,siakapa01,East,2023,NBA,False,Indiana Pacers
+Jayson Tatum,tatumja01,East,2023,NBA,False,Boston Celtics
+Jaylen Brown,brownja02,West,2023,NBA,False,Boston Celtics
+Stephen Curry,curryst01,West,2023,NBA,True,Golden State Warriors
+Luka Dončić,doncilu01,West,2023,NBA,False,Los Angeles Lakers
+Anthony Edwards,edwaran01,West,2023,NBA,False,Minnesota Timberwolves
+Joel Embiid,embiijo01,West,2023,NBA,False,Philadelphia 76ers
+De'Aaron Fox,foxde01,West,2023,NBA,False,San Antonio Spurs
+Paul George,georgpa01,West,2023,NBA,False,Philadelphia 76ers
+Tyrese Haliburton,halibty01,West,2023,NBA,False,Indiana Pacers
+Kyrie Irving,irvinky01,West,2023,NBA,False,Dallas Mavericks
+Jaren Jackson Jr.,jacksja02,West,2023,NBA,False,Memphis Grizzlies
+LeBron James,jamesle01,West,2023,NBA,False,Los Angeles Lakers
+Nikola Jokić,jokicni01,West,2023,NBA,False,Denver Nuggets
+Julius Randle,randlju01,West,2023,NBA,False,Minnesota Timberwolves
+Zion Williamson,willizi01,West,2023,NBA,True,New Orleans Pelicans
+LaMelo Ball,ballla01,East,2022,NBA,False,Charlotte Hornets
+Devin Booker,bookede01,East,2022,NBA,False,Phoenix Suns
+Kevin Durant,duranke01,East,2022,NBA,True,Houston Rockets
+Joel Embiid,embiijo01,East,2022,NBA,False,Philadelphia 76ers
+Rudy Gobert,goberru01,East,2022,NBA,False,Minnesota Timberwolves
+Draymond Green,greendr01,East,2022,NBA,True,Golden State Warriors
+Zach LaVine,lavinza01,East,2022,NBA,False,Sacramento Kings
+Khris Middleton,middlkh01,East,2022,NBA,False,Washington Wizards
+Ja Morant,moranja01,East,2022,NBA,False,Memphis Grizzlies
+Dejounte Murray,murrade01,East,2022,NBA,False,New Orleans Pelicans
+Jayson Tatum,tatumja01,East,2022,NBA,False,Boston Celtics
+Karl-Anthony Towns,townska01,East,2022,NBA,False,New York Knicks
+Andrew Wiggins,wiggian01,East,2022,NBA,False,Miami Heat
+Trae Young,youngtr01,East,2022,NBA,False,Atlanta Hawks
+Jarrett Allen,allenja01,West,2022,NBA,False,Cleveland Cavaliers
+Giannis Antetokounmpo,antetgi01,West,2022,NBA,False,Milwaukee Bucks
+Jimmy Butler,butleji01,West,2022,NBA,False,Golden State Warriors
+Stephen Curry,curryst01,West,2022,NBA,False,Golden State Warriors
+DeMar DeRozan,derozde01,West,2022,NBA,False,Sacramento Kings
+Luka Dončić,doncilu01,West,2022,NBA,False,Los Angeles Lakers
+Darius Garland,garlada01,West,2022,NBA,False,Cleveland Cavaliers
+James Harden,hardeja01,West,2022,NBA,True,Los Angeles Clippers
+LeBron James,jamesle01,West,2022,NBA,False,Los Angeles Lakers
+Nikola Jokić,jokicni01,West,2022,NBA,False,Denver Nuggets
+Donovan Mitchell,mitchdo01,West,2022,NBA,True,Cleveland Cavaliers
+Chris Paul,paulch01,West,2022,NBA,False,Los Angeles Clippers
+Fred VanVleet,vanvlfr01,West,2022,NBA,False,Houston Rockets
+Bradley Beal,bealbr01,East,2021,NBA,False,Los Angeles Clippers
+Devin Booker,bookede01,East,2021,NBA,True,Phoenix Suns
+Mike Conley,conlemi01,East,2021,NBA,False,Minnesota Timberwolves
+Anthony Davis,davisan02,East,2021,NBA,True,Dallas Mavericks
+Kevin Durant,duranke01,East,2021,NBA,True,Houston Rockets
+Joel Embiid,embiijo01,East,2021,NBA,True,Philadelphia 76ers
+James Harden,hardeja01,East,2021,NBA,False,Los Angeles Clippers
+Kyrie Irving,irvinky01,East,2021,NBA,False,Dallas Mavericks
+Zach LaVine,lavinza01,East,2021,NBA,False,Sacramento Kings
+Kawhi Leonard,leonaka01,East,2021,NBA,False,Los Angeles Clippers
+Donovan Mitchell,mitchdo01,East,2021,NBA,False,Cleveland Cavaliers
+Julius Randle,randlju01,East,2021,NBA,False,Minnesota Timberwolves
+Jayson Tatum,tatumja01,East,2021,NBA,False,Boston Celtics
+Nikola Vučević,vucevni01,East,2021,NBA,False,Chicago Bulls
+Zion Williamson,willizi01,East,2021,NBA,False,New Orleans Pelicans
+Giannis Antetokounmpo,antetgi01,West,2021,NBA,False,Milwaukee Bucks
+Jaylen Brown,brownja02,West,2021,NBA,False,Boston Celtics
+Stephen Curry,curryst01,West,2021,NBA,False,Golden State Warriors
+Luka Dončić,doncilu01,West,2021,NBA,False,Los Angeles Lakers
+Paul George,georgpa01,West,2021,NBA,False,Philadelphia 76ers
+Rudy Gobert,goberru01,West,2021,NBA,False,Minnesota Timberwolves
+LeBron James,jamesle01,West,2021,NBA,False,Los Angeles Lakers
+Nikola Jokić,jokicni01,West,2021,NBA,False,Denver Nuggets
+Damian Lillard,lillada01,West,2021,NBA,False,Milwaukee Bucks
+Chris Paul,paulch01,West,2021,NBA,False,Los Angeles Clippers
+Domantas Sabonis,sabondo01,West,2021,NBA,False,Sacramento Kings
+Ben Simmons,simmobe01,West,2021,NBA,True,
+Bam Adebayo,adebaba01,East,2020,NBA,False,Miami Heat
+Giannis Antetokounmpo,antetgi01,East,2020,NBA,False,Milwaukee Bucks
+Jimmy Butler,butleji01,East,2020,NBA,False,Golden State Warriors
+Joel Embiid,embiijo01,East,2020,NBA,False,Philadelphia 76ers
+Rudy Gobert,goberru01,East,2020,NBA,False,Minnesota Timberwolves
+Brandon Ingram,ingrabr01,East,2020,NBA,False,Toronto Raptors
+Kyle Lowry,lowryky01,East,2020,NBA,False,Philadelphia 76ers
+Khris Middleton,middlkh01,East,2020,NBA,False,Washington Wizards
+Donovan Mitchell,mitchdo01,East,2020,NBA,False,Cleveland Cavaliers
+Pascal Siakam,siakapa01,East,2020,NBA,False,Indiana Pacers
+Kemba Walker,walkeke02,East,2020,NBA,False,Dallas Mavericks
+Trae Young,youngtr01,East,2020,NBA,False,Atlanta Hawks
+Devin Booker,bookede01,West,2020,NBA,False,Phoenix Suns
+Anthony Davis,davisan02,West,2020,NBA,False,Dallas Mavericks
+Luka Dončić,doncilu01,West,2020,NBA,False,Los Angeles Lakers
+James Harden,hardeja01,West,2020,NBA,False,Los Angeles Clippers
+LeBron James,jamesle01,West,2020,NBA,False,Los Angeles Lakers
+Nikola Jokić,jokicni01,West,2020,NBA,False,Denver Nuggets
+Kawhi Leonard,leonaka01,West,2020,NBA,False,Los Angeles Clippers
+Damian Lillard,lillada01,West,2020,NBA,True,Milwaukee Bucks
+Chris Paul,paulch01,West,2020,NBA,False,Los Angeles Clippers
+Domantas Sabonis,sabondo01,West,2020,NBA,False,Sacramento Kings
+Ben Simmons,simmobe01,West,2020,NBA,False,
+Jayson Tatum,tatumja01,West,2020,NBA,False,Boston Celtics
+Russell Westbrook,westbru01,West,2020,NBA,False,Sacramento Kings
+Giannis Antetokounmpo,antetgi01,East,2019,NBA,False,Milwaukee Bucks
+Stephen Curry,curryst01,East,2019,NBA,False,Golden State Warriors
+Joel Embiid,embiijo01,East,2019,NBA,False,Philadelphia 76ers
+Paul George,georgpa01,East,2019,NBA,False,Philadelphia 76ers
+Blake Griffin,griffbl01,East,2019,NBA,False,Boston Celtics
+Nikola Jokić,jokicni01,East,2019,NBA,False,Denver Nuggets
+Kyle Lowry,lowryky01,East,2019,NBA,False,Philadelphia 76ers
+Khris Middleton,middlkh01,East,2019,NBA,False,Washington Wizards
+Dirk Nowitzki,nowitdi01,East,2019,NBA,False,Dallas Mavericks
+Victor Oladipo,oladivi01,East,2019,NBA,True,Miami Heat
+D'Angelo Russell,russeda01,East,2019,NBA,False,Dallas Mavericks
+Nikola Vučević,vucevni01,East,2019,NBA,False,Chicago Bulls
+Kemba Walker,walkeke02,East,2019,NBA,False,Dallas Mavericks
+Russell Westbrook,westbru01,East,2019,NBA,False,Sacramento Kings
+LaMarcus Aldridge,aldrila01,West,2019,NBA,False,Brooklyn Nets
+Bradley Beal,bealbr01,West,2019,NBA,False,Los Angeles Clippers
+Anthony Davis,davisan02,West,2019,NBA,False,Dallas Mavericks
+Kevin Durant,duranke01,West,2019,NBA,False,Houston Rockets
+James Harden,hardeja01,West,2019,NBA,False,Los Angeles Clippers
+Kyrie Irving,irvinky01,West,2019,NBA,False,Dallas Mavericks
+LeBron James,jamesle01,West,2019,NBA,False,Los Angeles Lakers
+Kawhi Leonard,leonaka01,West,2019,NBA,False,Los Angeles Clippers
+Damian Lillard,lillada01,West,2019,NBA,False,Milwaukee Bucks
+Ben Simmons,simmobe01,West,2019,NBA,False,
+Klay Thompson,thompkl01,West,2019,NBA,False,Dallas Mavericks
+Karl-Anthony Towns,townska01,West,2019,NBA,False,New York Knicks
+Dwyane Wade,wadedw01,West,2019,NBA,False,Miami Heat
+LaMarcus Aldridge,aldrila01,West,2018,NBA,False,Brooklyn Nets
+Bradley Beal,bealbr01,West,2018,NBA,False,Los Angeles Clippers
+DeMarcus Cousins,couside01,West,2018,NBA,True,
+Anthony Davis,davisan02,West,2018,NBA,False,Dallas Mavericks
+Goran Dragić,dragigo01,West,2018,NBA,False,
+Andre Drummond,drumman01,West,2018,NBA,False,Philadelphia 76ers
+Kevin Durant,duranke01,West,2018,NBA,False,Houston Rockets
+Paul George,georgpa01,West,2018,NBA,False,Philadelphia 76ers
+Kyrie Irving,irvinky01,West,2018,NBA,False,Dallas Mavericks
+LeBron James,jamesle01,West,2018,NBA,False,Los Angeles Lakers
+Kevin Love,loveke01,West,2018,NBA,True,Utah Jazz
+Victor Oladipo,oladivi01,West,2018,NBA,False,Miami Heat
+Kristaps Porziņģis,porzikr01,West,2018,NBA,True,Atlanta Hawks
+Kemba Walker,walkeke02,West,2018,NBA,False,Dallas Mavericks
+John Wall,walljo01,West,2018,NBA,True,Los Angeles Clippers
+Russell Westbrook,westbru01,West,2018,NBA,False,Sacramento Kings
+Giannis Antetokounmpo,antetgi01,Team Stephen,2018,NBA,False,Milwaukee Bucks
+Jimmy Butler,butleji01,Team Stephen,2018,NBA,True,Golden State Warriors
+Stephen Curry,curryst01,Team Stephen,2018,NBA,False,Golden State Warriors
+DeMar DeRozan,derozde01,Team Stephen,2018,NBA,False,Sacramento Kings
+Joel Embiid,embiijo01,Team Stephen,2018,NBA,False,Philadelphia 76ers
+Draymond Green,greendr01,Team Stephen,2018,NBA,False,Golden State Warriors
+James Harden,hardeja01,Team Stephen,2018,NBA,False,Los Angeles Clippers
+Al Horford,horfoal01,Team Stephen,2018,NBA,False,Golden State Warriors
+Damian Lillard,lillada01,Team Stephen,2018,NBA,False,Milwaukee Bucks
+Kyle Lowry,lowryky01,Team Stephen,2018,NBA,False,Philadelphia 76ers
+Klay Thompson,thompkl01,Team Stephen,2018,NBA,False,Dallas Mavericks
+Karl-Anthony Towns,townska01,Team Stephen,2018,NBA,False,New York Knicks
+Giannis Antetokounmpo,antetgi01,East,2017,NBA,False,Milwaukee Bucks
+Carmelo Anthony,anthoca01,East,2017,NBA,False,Los Angeles Lakers
+Jimmy Butler,butleji01,East,2017,NBA,False,Golden State Warriors
+DeMar DeRozan,derozde01,East,2017,NBA,False,Sacramento Kings
+Paul George,georgpa01,East,2017,NBA,False,Philadelphia 76ers
+Kyrie Irving,irvinky01,East,2017,NBA,False,Dallas Mavericks
+LeBron James,jamesle01,East,2017,NBA,False,Los Angeles Lakers
+Kevin Love,loveke01,East,2017,NBA,True,Utah Jazz
+Kyle Lowry,lowryky01,East,2017,NBA,False,Philadelphia 76ers
+Paul Millsap,millspa01,East,2017,NBA,False,
+Isaiah Thomas,thomais02,East,2017,NBA,False,Phoenix Suns
+Kemba Walker,walkeke02,East,2017,NBA,False,Dallas Mavericks
+John Wall,walljo01,East,2017,NBA,False,Los Angeles Clippers
+DeMarcus Cousins,couside01,West,2017,NBA,False,
+Stephen Curry,curryst01,West,2017,NBA,False,Golden State Warriors
+Anthony Davis,davisan02,West,2017,NBA,False,Dallas Mavericks
+Kevin Durant,duranke01,West,2017,NBA,False,Houston Rockets
+Marc Gasol,gasolma01,West,2017,NBA,False,Los Angeles Lakers
+Draymond Green,greendr01,West,2017,NBA,False,Golden State Warriors
+James Harden,hardeja01,West,2017,NBA,False,Los Angeles Clippers
+Gordon Hayward,haywago01,West,2017,NBA,False,
+DeAndre Jordan,jordade01,West,2017,NBA,False,New Orleans Pelicans
+Kawhi Leonard,leonaka01,West,2017,NBA,False,Los Angeles Clippers
+Klay Thompson,thompkl01,West,2017,NBA,False,Dallas Mavericks
+Russell Westbrook,westbru01,West,2017,NBA,False,Sacramento Kings
+Carmelo Anthony,anthoca01,East,2016,NBA,False,Los Angeles Lakers
+Chris Bosh,boshch01,East,2016,NBA,True,Miami Heat
+Jimmy Butler,butleji01,East,2016,NBA,True,Golden State Warriors
+DeMar DeRozan,derozde01,East,2016,NBA,False,Sacramento Kings
+Andre Drummond,drumman01,East,2016,NBA,False,Philadelphia 76ers
+Pau Gasol,gasolpa01,East,2016,NBA,False,
+Paul George,georgpa01,East,2016,NBA,False,Philadelphia 76ers
+Al Horford,horfoal01,East,2016,NBA,False,Golden State Warriors
+LeBron James,jamesle01,East,2016,NBA,False,Los Angeles Lakers
+Kyle Lowry,lowryky01,East,2016,NBA,False,Philadelphia 76ers
+Paul Millsap,millspa01,East,2016,NBA,False,
+Isaiah Thomas,thomais02,East,2016,NBA,False,Phoenix Suns
+Dwyane Wade,wadedw01,East,2016,NBA,False,Miami Heat
+John Wall,walljo01,East,2016,NBA,False,Los Angeles Clippers
+LaMarcus Aldridge,aldrila01,West,2016,NBA,False,Brooklyn Nets
+Kobe Bryant,bryanko01,West,2016,NBA,False,Los Angeles Lakers
+DeMarcus Cousins,couside01,West,2016,NBA,False,
+Stephen Curry,curryst01,West,2016,NBA,False,Golden State Warriors
+Anthony Davis,davisan02,West,2016,NBA,False,Dallas Mavericks
+Kevin Durant,duranke01,West,2016,NBA,False,Houston Rockets
+Draymond Green,greendr01,West,2016,NBA,False,Golden State Warriors
+James Harden,hardeja01,West,2016,NBA,False,Los Angeles Clippers
+Kawhi Leonard,leonaka01,West,2016,NBA,False,Los Angeles Clippers
+Chris Paul,paulch01,West,2016,NBA,False,Los Angeles Clippers
+Klay Thompson,thompkl01,West,2016,NBA,False,Dallas Mavericks
+Russell Westbrook,westbru01,West,2016,NBA,False,Sacramento Kings
+Carmelo Anthony,anthoca01,East,2015,NBA,False,Los Angeles Lakers
+Chris Bosh,boshch01,East,2015,NBA,False,Miami Heat
+Jimmy Butler,butleji01,East,2015,NBA,False,Golden State Warriors
+Pau Gasol,gasolpa01,East,2015,NBA,False,
+Al Horford,horfoal01,East,2015,NBA,False,Golden State Warriors
+Kyrie Irving,irvinky01,East,2015,NBA,False,Dallas Mavericks
+LeBron James,jamesle01,East,2015,NBA,False,Los Angeles Lakers
+Kyle Korver,korveky01,East,2015,NBA,False,Milwaukee Bucks
+Kyle Lowry,lowryky01,East,2015,NBA,False,Philadelphia 76ers
+Paul Millsap,millspa01,East,2015,NBA,False,
+Jeff Teague,teaguje01,East,2015,NBA,False,
+Dwyane Wade,wadedw01,East,2015,NBA,True,Miami Heat
+John Wall,walljo01,East,2015,NBA,False,Los Angeles Clippers
+LaMarcus Aldridge,aldrila01,West,2015,NBA,False,Brooklyn Nets
+Kobe Bryant,bryanko01,West,2015,NBA,True,Los Angeles Lakers
+DeMarcus Cousins,couside01,West,2015,NBA,False,
+Stephen Curry,curryst01,West,2015,NBA,False,Golden State Warriors
+Anthony Davis,davisan02,West,2015,NBA,True,Dallas Mavericks
+Tim Duncan,duncati01,West,2015,NBA,False,San Antonio Spurs
+Kevin Durant,duranke01,West,2015,NBA,False,Houston Rockets
+Marc Gasol,gasolma01,West,2015,NBA,False,Los Angeles Lakers
+Blake Griffin,griffbl01,West,2015,NBA,True,Boston Celtics
+James Harden,hardeja01,West,2015,NBA,False,Los Angeles Clippers
+Damian Lillard,lillada01,West,2015,NBA,False,Milwaukee Bucks
+Dirk Nowitzki,nowitdi01,West,2015,NBA,False,Dallas Mavericks
+Chris Paul,paulch01,West,2015,NBA,False,Los Angeles Clippers
+Klay Thompson,thompkl01,West,2015,NBA,False,Dallas Mavericks
+Russell Westbrook,westbru01,West,2015,NBA,False,Sacramento Kings
+Carmelo Anthony,anthoca01,East,2014,NBA,False,Los Angeles Lakers
+Chris Bosh,boshch01,East,2014,NBA,False,Miami Heat
+DeMar DeRozan,derozde01,East,2014,NBA,False,Sacramento Kings
+Paul George,georgpa01,East,2014,NBA,False,Philadelphia 76ers
+Roy Hibbert,hibbero01,East,2014,NBA,False,
+Kyrie Irving,irvinky01,East,2014,NBA,False,Dallas Mavericks
+LeBron James,jamesle01,East,2014,NBA,False,Los Angeles Lakers
+Joe Johnson,johnsjo02,East,2014,NBA,False,Boston Celtics
+Paul Millsap,millspa01,East,2014,NBA,False,
+Joakim Noah,noahjo01,East,2014,NBA,False,Los Angeles Clippers
+Dwyane Wade,wadedw01,East,2014,NBA,False,Miami Heat
+John Wall,walljo01,East,2014,NBA,False,Los Angeles Clippers
+LaMarcus Aldridge,aldrila01,West,2014,NBA,False,Brooklyn Nets
+Kobe Bryant,bryanko01,West,2014,NBA,True,Los Angeles Lakers
+Stephen Curry,curryst01,West,2014,NBA,False,Golden State Warriors
+Anthony Davis,davisan02,West,2014,NBA,False,Dallas Mavericks
+Kevin Durant,duranke01,West,2014,NBA,False,Houston Rockets
+Blake Griffin,griffbl01,West,2014,NBA,False,Boston Celtics
+James Harden,hardeja01,West,2014,NBA,False,Los Angeles Clippers
+Dwight Howard,howardw01,West,2014,NBA,False,Los Angeles Lakers
+Damian Lillard,lillada01,West,2014,NBA,False,Milwaukee Bucks
+Kevin Love,loveke01,West,2014,NBA,False,Utah Jazz
+Dirk Nowitzki,nowitdi01,West,2014,NBA,False,Dallas Mavericks
+Tony Parker,parketo01,West,2014,NBA,False,Charlotte Hornets
+Chris Paul,paulch01,West,2014,NBA,False,Los Angeles Clippers
+Carmelo Anthony,anthoca01,East,2013,NBA,False,Los Angeles Lakers
+Chris Bosh,boshch01,East,2013,NBA,False,Miami Heat
+Tyson Chandler,chandty01,East,2013,NBA,False,Houston Rockets
+Luol Deng,denglu01,East,2013,NBA,False,Minnesota Timberwolves
+Kevin Garnett,garneke01,East,2013,NBA,False,Minnesota Timberwolves
+Paul George,georgpa01,East,2013,NBA,False,Philadelphia 76ers
+Jrue Holiday,holidjr01,East,2013,NBA,False,Portland Trail Blazers
+Kyrie Irving,irvinky01,East,2013,NBA,False,Dallas Mavericks
+LeBron James,jamesle01,East,2013,NBA,False,Los Angeles Lakers
+Brook Lopez,lopezbr01,East,2013,NBA,True,Los Angeles Clippers
+Joakim Noah,noahjo01,East,2013,NBA,False,Los Angeles Clippers
+Rajon Rondo,rondora01,East,2013,NBA,True,
+Dwyane Wade,wadedw01,East,2013,NBA,False,Miami Heat
+LaMarcus Aldridge,aldrila01,West,2013,NBA,False,Brooklyn Nets
+Kobe Bryant,bryanko01,West,2013,NBA,False,Los Angeles Lakers
+Tim Duncan,duncati01,West,2013,NBA,False,San Antonio Spurs
+Kevin Durant,duranke01,West,2013,NBA,False,Houston Rockets
+Blake Griffin,griffbl01,West,2013,NBA,False,Boston Celtics
+James Harden,hardeja01,West,2013,NBA,False,Los Angeles Clippers
+Dwight Howard,howardw01,West,2013,NBA,False,Los Angeles Lakers
+David Lee,leeda02,West,2013,NBA,False,San Antonio Spurs
+Tony Parker,parketo01,West,2013,NBA,False,Charlotte Hornets
+Chris Paul,paulch01,West,2013,NBA,False,Los Angeles Clippers
+Zach Randolph,randoza01,West,2013,NBA,False,Sacramento Kings
+Russell Westbrook,westbru01,West,2013,NBA,False,Sacramento Kings
+Carmelo Anthony,anthoca01,East,2012,NBA,False,Los Angeles Lakers
+Chris Bosh,boshch01,East,2012,NBA,False,Miami Heat
+Luol Deng,denglu01,East,2012,NBA,False,Minnesota Timberwolves
+Roy Hibbert,hibbero01,East,2012,NBA,False,
+Dwight Howard,howardw01,East,2012,NBA,False,Los Angeles Lakers
+Andre Iguodala,iguodan01,East,2012,NBA,False,Golden State Warriors
+LeBron James,jamesle01,East,2012,NBA,False,Los Angeles Lakers
+Joe Johnson,johnsjo02,East,2012,NBA,True,Boston Celtics
+Paul Pierce,piercpa01,East,2012,NBA,False,Los Angeles Clippers
+Rajon Rondo,rondora01,East,2012,NBA,True,
+Derrick Rose,rosede01,East,2012,NBA,False,Memphis Grizzlies
+Dwyane Wade,wadedw01,East,2012,NBA,False,Miami Heat
+Deron Williams,willide01,East,2012,NBA,False,
+LaMarcus Aldridge,aldrila01,West,2012,NBA,False,Brooklyn Nets
+Kobe Bryant,bryanko01,West,2012,NBA,False,Los Angeles Lakers
+Andrew Bynum,bynuman01,West,2012,NBA,False,
+Kevin Durant,duranke01,West,2012,NBA,False,Houston Rockets
+Marc Gasol,gasolma01,West,2012,NBA,False,Los Angeles Lakers
+Blake Griffin,griffbl01,West,2012,NBA,False,Boston Celtics
+Kevin Love,loveke01,West,2012,NBA,False,Utah Jazz
+Steve Nash,nashst01,West,2012,NBA,False,Los Angeles Lakers
+Dirk Nowitzki,nowitdi01,West,2012,NBA,False,Dallas Mavericks
+Tony Parker,parketo01,West,2012,NBA,False,Charlotte Hornets
+Chris Paul,paulch01,West,2012,NBA,False,Los Angeles Clippers
+Russell Westbrook,westbru01,West,2012,NBA,False,Sacramento Kings
+Ray Allen,allenra02,East,2011,NBA,False,Miami Heat
+Chris Bosh,boshch01,East,2011,NBA,False,Miami Heat
+Kevin Garnett,garneke01,East,2011,NBA,False,Minnesota Timberwolves
+Al Horford,horfoal01,East,2011,NBA,False,Golden State Warriors
+Dwight Howard,howardw01,East,2011,NBA,False,Los Angeles Lakers
+LeBron James,jamesle01,East,2011,NBA,False,Los Angeles Lakers
+Joe Johnson,johnsjo02,East,2011,NBA,False,Boston Celtics
+Paul Pierce,piercpa01,East,2011,NBA,False,Los Angeles Clippers
+Rajon Rondo,rondora01,East,2011,NBA,False,
+Derrick Rose,rosede01,East,2011,NBA,False,Memphis Grizzlies
+Amar'e Stoudemire,stoudam01,East,2011,NBA,False,Miami Heat
+Dwyane Wade,wadedw01,East,2011,NBA,False,Miami Heat
+Carmelo Anthony,anthoca01,West,2011,NBA,False,Los Angeles Lakers
+Kobe Bryant,bryanko01,West,2011,NBA,False,Los Angeles Lakers
+Tim Duncan,duncati01,West,2011,NBA,False,San Antonio Spurs
+Kevin Durant,duranke01,West,2011,NBA,False,Houston Rockets
+Pau Gasol,gasolpa01,West,2011,NBA,False,
+Manu Ginóbili,ginobma01,West,2011,NBA,False,San Antonio Spurs
+Blake Griffin,griffbl01,West,2011,NBA,False,Boston Celtics
+Kevin Love,loveke01,West,2011,NBA,True,Utah Jazz
+Yao Ming,mingya01,West,2011,NBA,True,Houston Rockets
+Dirk Nowitzki,nowitdi01,West,2011,NBA,False,Dallas Mavericks
+Chris Paul,paulch01,West,2011,NBA,False,Los Angeles Clippers
+Russell Westbrook,westbru01,West,2011,NBA,False,Sacramento Kings
+Deron Williams,willide01,West,2011,NBA,False,
+Chris Bosh,boshch01,East,2010,NBA,False,Miami Heat
+Kevin Garnett,garneke01,East,2010,NBA,False,Minnesota Timberwolves
+Al Horford,horfoal01,East,2010,NBA,False,Golden State Warriors
+Dwight Howard,howardw01,East,2010,NBA,False,Los Angeles Lakers
+Allen Iverson,iversal01,East,2010,NBA,True,
+LeBron James,jamesle01,East,2010,NBA,False,Los Angeles Lakers
+Joe Johnson,johnsjo02,East,2010,NBA,False,Boston Celtics
+David Lee,leeda02,East,2010,NBA,True,San Antonio Spurs
+Paul Pierce,piercpa01,East,2010,NBA,False,Los Angeles Clippers
+Rajon Rondo,rondora01,East,2010,NBA,False,
+Derrick Rose,rosede01,East,2010,NBA,False,Memphis Grizzlies
+Dwyane Wade,wadedw01,East,2010,NBA,False,Miami Heat
+Gerald Wallace,wallage01,East,2010,NBA,False,Boston Celtics
+Carmelo Anthony,anthoca01,West,2010,NBA,False,Los Angeles Lakers
+Chauncey Billups,billuch01,West,2010,NBA,True,Detroit Pistons
+Kobe Bryant,bryanko01,West,2010,NBA,True,Los Angeles Lakers
+Tim Duncan,duncati01,West,2010,NBA,False,San Antonio Spurs
+Kevin Durant,duranke01,West,2010,NBA,False,Houston Rockets
+Pau Gasol,gasolpa01,West,2010,NBA,False,
+Chris Kaman,kamanch01,West,2010,NBA,True,Portland Trail Blazers
+Jason Kidd,kiddja01,West,2010,NBA,True,New York Knicks
+Steve Nash,nashst01,West,2010,NBA,False,Los Angeles Lakers
+Dirk Nowitzki,nowitdi01,West,2010,NBA,False,Dallas Mavericks
+Chris Paul,paulch01,West,2010,NBA,True,Los Angeles Clippers
+Zach Randolph,randoza01,West,2010,NBA,False,Sacramento Kings
+Brandon Roy,roybr01,West,2010,NBA,True,Minnesota Timberwolves
+Amar'e Stoudemire,stoudam01,West,2010,NBA,False,Miami Heat
+Deron Williams,willide01,West,2010,NBA,False,
+Ray Allen,allenra02,East,2009,NBA,False,Miami Heat
+Chris Bosh,boshch01,East,2009,NBA,True,Miami Heat
+Kevin Garnett,garneke01,East,2009,NBA,False,Minnesota Timberwolves
+Danny Granger,grangda01,East,2009,NBA,False,Miami Heat
+Devin Harris,harride01,East,2009,NBA,False,Dallas Mavericks
+Dwight Howard,howardw01,East,2009,NBA,False,Los Angeles Lakers
+Allen Iverson,iversal01,East,2009,NBA,False,
+LeBron James,jamesle01,East,2009,NBA,False,Los Angeles Lakers
+Joe Johnson,johnsjo02,East,2009,NBA,False,Boston Celtics
+Rashard Lewis,lewisra02,East,2009,NBA,False,Miami Heat
+Jameer Nelson,nelsoja01,East,2009,NBA,True,
+Paul Pierce,piercpa01,East,2009,NBA,False,Los Angeles Clippers
+Dwyane Wade,wadedw01,East,2009,NBA,False,Miami Heat
+Mo Williams,willima01,East,2009,NBA,True,Cleveland Cavaliers
+Chauncey Billups,billuch01,West,2009,NBA,False,Detroit Pistons
+Kobe Bryant,bryanko01,West,2009,NBA,False,Los Angeles Lakers
+Tim Duncan,duncati01,West,2009,NBA,False,San Antonio Spurs
+Pau Gasol,gasolpa01,West,2009,NBA,False,
+Yao Ming,mingya01,West,2009,NBA,False,Houston Rockets
+Dirk Nowitzki,nowitdi01,West,2009,NBA,False,Dallas Mavericks
+Shaquille O'Neal,onealsh01,West,2009,NBA,False,Boston Celtics
+Tony Parker,parketo01,West,2009,NBA,False,Charlotte Hornets
+Chris Paul,paulch01,West,2009,NBA,False,Los Angeles Clippers
+Brandon Roy,roybr01,West,2009,NBA,False,Minnesota Timberwolves
+Amar'e Stoudemire,stoudam01,West,2009,NBA,False,Miami Heat
+David West,westda01,West,2009,NBA,False,Golden State Warriors
+Ray Allen,allenra02,East,2008,NBA,True,Miami Heat
+Chauncey Billups,billuch01,East,2008,NBA,False,Detroit Pistons
+Chris Bosh,boshch01,East,2008,NBA,False,Miami Heat
+Caron Butler,butleca01,East,2008,NBA,True,Sacramento Kings
+Kevin Garnett,garneke01,East,2008,NBA,True,Minnesota Timberwolves
+Richard Hamilton,hamilri01,East,2008,NBA,False,Chicago Bulls
+Dwight Howard,howardw01,East,2008,NBA,False,Los Angeles Lakers
+LeBron James,jamesle01,East,2008,NBA,False,Los Angeles Lakers
+Antawn Jamison,jamisan01,East,2008,NBA,False,Los Angeles Clippers
+Joe Johnson,johnsjo02,East,2008,NBA,False,Boston Celtics
+Jason Kidd,kiddja01,East,2008,NBA,False,New York Knicks
+Paul Pierce,piercpa01,East,2008,NBA,False,Los Angeles Clippers
+Dwyane Wade,wadedw01,East,2008,NBA,False,Miami Heat
+Rasheed Wallace,wallara01,East,2008,NBA,True,New York Knicks
+Carmelo Anthony,anthoca01,West,2008,NBA,False,Los Angeles Lakers
+Carlos Boozer,boozeca01,West,2008,NBA,False,Los Angeles Lakers
+Kobe Bryant,bryanko01,West,2008,NBA,False,Los Angeles Lakers
+Tim Duncan,duncati01,West,2008,NBA,False,San Antonio Spurs
+Allen Iverson,iversal01,West,2008,NBA,False,
+Yao Ming,mingya01,West,2008,NBA,False,Houston Rockets
+Steve Nash,nashst01,West,2008,NBA,False,Los Angeles Lakers
+Dirk Nowitzki,nowitdi01,West,2008,NBA,False,Dallas Mavericks
+Chris Paul,paulch01,West,2008,NBA,False,Los Angeles Clippers
+Brandon Roy,roybr01,West,2008,NBA,False,Minnesota Timberwolves
+Amar'e Stoudemire,stoudam01,West,2008,NBA,False,Miami Heat
+David West,westda01,West,2008,NBA,False,Golden State Warriors
+Gilbert Arenas,arenagi01,East,2007,NBA,False,Memphis Grizzlies
+Chauncey Billups,billuch01,East,2007,NBA,False,Detroit Pistons
+Chris Bosh,boshch01,East,2007,NBA,False,Miami Heat
+Caron Butler,butleca01,East,2007,NBA,False,Sacramento Kings
+Vince Carter,cartevi01,East,2007,NBA,False,Atlanta Hawks
+Richard Hamilton,hamilri01,East,2007,NBA,False,Chicago Bulls
+Dwight Howard,howardw01,East,2007,NBA,False,Los Angeles Lakers
+LeBron James,jamesle01,East,2007,NBA,False,Los Angeles Lakers
+Joe Johnson,johnsjo02,East,2007,NBA,True,Boston Celtics
+Jason Kidd,kiddja01,East,2007,NBA,True,New York Knicks
+Jermaine O'Neal,onealje01,East,2007,NBA,False,Golden State Warriors
+Shaquille O'Neal,onealsh01,East,2007,NBA,False,Boston Celtics
+Dwyane Wade,wadedw01,East,2007,NBA,False,Miami Heat
+Ray Allen,allenra02,West,2007,NBA,True,Miami Heat
+Carmelo Anthony,anthoca01,West,2007,NBA,True,Los Angeles Lakers
+Carlos Boozer,boozeca01,West,2007,NBA,True,Los Angeles Lakers
+Kobe Bryant,bryanko01,West,2007,NBA,False,Los Angeles Lakers
+Tim Duncan,duncati01,West,2007,NBA,False,San Antonio Spurs
+Kevin Garnett,garneke01,West,2007,NBA,False,Minnesota Timberwolves
+Josh Howard,howarjo01,West,2007,NBA,True,Minnesota Timberwolves
+Allen Iverson,iversal01,West,2007,NBA,True,
+Shawn Marion,mariosh01,West,2007,NBA,False,Cleveland Cavaliers
+Tracy McGrady,mcgratr01,West,2007,NBA,False,Atlanta Hawks
+Yao Ming,mingya01,West,2007,NBA,True,Houston Rockets
+Steve Nash,nashst01,West,2007,NBA,True,Los Angeles Lakers
+Dirk Nowitzki,nowitdi01,West,2007,NBA,False,Dallas Mavericks
+Mehmet Okur ,okurme01,West,2007,NBA,True,New Jersey Nets
+Tony Parker,parketo01,West,2007,NBA,False,Charlotte Hornets
+Amar'e Stoudemire,stoudam01,West,2007,NBA,False,Miami Heat
+Gilbert Arenas,arenagi01,East,2006,NBA,True,Memphis Grizzlies
+Chauncey Billups,billuch01,East,2006,NBA,False,Detroit Pistons
+Chris Bosh,boshch01,East,2006,NBA,False,Miami Heat
+Vince Carter,cartevi01,East,2006,NBA,False,Atlanta Hawks
+Richard Hamilton,hamilri01,East,2006,NBA,False,Chicago Bulls
+Allen Iverson,iversal01,East,2006,NBA,False,
+LeBron James,jamesle01,East,2006,NBA,False,Los Angeles Lakers
+Jermaine O'Neal,onealje01,East,2006,NBA,True,Golden State Warriors
+Shaquille O'Neal,onealsh01,East,2006,NBA,False,Boston Celtics
+Paul Pierce,piercpa01,East,2006,NBA,False,Los Angeles Clippers
+Dwyane Wade,wadedw01,East,2006,NBA,False,Miami Heat
+Ben Wallace,wallabe01,East,2006,NBA,False,Detroit Pistons
+Rasheed Wallace,wallara01,East,2006,NBA,False,New York Knicks
+Ray Allen,allenra02,West,2006,NBA,False,Miami Heat
+Elton Brand,brandel01,West,2006,NBA,False,Philadelphia 76ers
+Kobe Bryant,bryanko01,West,2006,NBA,False,Los Angeles Lakers
+Tim Duncan,duncati01,West,2006,NBA,False,San Antonio Spurs
+Kevin Garnett,garneke01,West,2006,NBA,False,Minnesota Timberwolves
+Pau Gasol,gasolpa01,West,2006,NBA,False,
+Shawn Marion,mariosh01,West,2006,NBA,False,Cleveland Cavaliers
+Tracy McGrady,mcgratr01,West,2006,NBA,False,Atlanta Hawks
+Yao Ming,mingya01,West,2006,NBA,False,Houston Rockets
+Steve Nash,nashst01,West,2006,NBA,False,Los Angeles Lakers
+Dirk Nowitzki,nowitdi01,West,2006,NBA,False,Dallas Mavericks
+Tony Parker,parketo01,West,2006,NBA,False,Charlotte Hornets
+Gilbert Arenas,arenagi01,East,2005,NBA,False,Memphis Grizzlies
+Vince Carter,cartevi01,East,2005,NBA,False,Atlanta Hawks
+Grant Hill,hillgr01,East,2005,NBA,False,Los Angeles Clippers
+Zydrunas Ilgauskas,ilgauzy01,East,2005,NBA,False,Miami Heat
+Allen Iverson,iversal01,East,2005,NBA,False,
+LeBron James,jamesle01,East,2005,NBA,False,Los Angeles Lakers
+Antawn Jamison,jamisan01,East,2005,NBA,False,Los Angeles Clippers
+Jermaine O'Neal,onealje01,East,2005,NBA,False,Golden State Warriors
+Shaquille O'Neal,onealsh01,East,2005,NBA,False,Boston Celtics
+Paul Pierce,piercpa01,East,2005,NBA,False,Los Angeles Clippers
+Dwyane Wade,wadedw01,East,2005,NBA,False,Miami Heat
+Ben Wallace,wallabe01,East,2005,NBA,False,Detroit Pistons
+Ray Allen,allenra02,West,2005,NBA,False,Miami Heat
+Kobe Bryant,bryanko01,West,2005,NBA,False,Los Angeles Lakers
+Tim Duncan,duncati01,West,2005,NBA,False,San Antonio Spurs
+Kevin Garnett,garneke01,West,2005,NBA,False,Minnesota Timberwolves
+Manu Ginóbili,ginobma01,West,2005,NBA,False,San Antonio Spurs
+Rashard Lewis,lewisra02,West,2005,NBA,False,Miami Heat
+Shawn Marion,mariosh01,West,2005,NBA,False,Cleveland Cavaliers
+Tracy McGrady,mcgratr01,West,2005,NBA,False,Atlanta Hawks
+Yao Ming,mingya01,West,2005,NBA,False,Houston Rockets
+Steve Nash,nashst01,West,2005,NBA,False,Los Angeles Lakers
+Dirk Nowitzki,nowitdi01,West,2005,NBA,False,Dallas Mavericks
+Amar'e Stoudemire,stoudam01,West,2005,NBA,False,Miami Heat
+Metta World Peace,artesro01,East,2004,NBA,False,Los Angeles Lakers
+Vince Carter,cartevi01,East,2004,NBA,False,Atlanta Hawks
+Baron Davis,davisba01,East,2004,NBA,False,New York Knicks
+Allen Iverson,iversal01,East,2004,NBA,False,
+Jason Kidd,kiddja01,East,2004,NBA,False,New York Knicks
+Jamaal Magloire,magloja01,East,2004,NBA,False,Toronto Raptors
+Kenyon Martin,martike01,East,2004,NBA,False,Milwaukee Bucks
+Tracy McGrady,mcgratr01,East,2004,NBA,False,Atlanta Hawks
+Jermaine O'Neal,onealje01,East,2004,NBA,False,Golden State Warriors
+Paul Pierce,piercpa01,East,2004,NBA,False,Los Angeles Clippers
+Michael Redd,reddmi01,East,2004,NBA,False,Phoenix Suns
+Ben Wallace,wallabe01,East,2004,NBA,False,Detroit Pistons
+Ray Allen,allenra02,West,2004,NBA,False,Miami Heat
+Kobe Bryant,bryanko01,West,2004,NBA,False,Los Angeles Lakers
+Sam Cassell,cassesa01,West,2004,NBA,False,
+Tim Duncan,duncati01,West,2004,NBA,False,San Antonio Spurs
+Steve Francis,francst01,West,2004,NBA,False,Houston Rockets
+Kevin Garnett,garneke01,West,2004,NBA,False,Minnesota Timberwolves
+Andrei Kirilenko,kirilan01,West,2004,NBA,False,Brooklyn Nets
+Brad Miller,millebr01,West,2004,NBA,False,Minnesota Timberwolves
+Yao Ming,mingya01,West,2004,NBA,False,Houston Rockets
+Dirk Nowitzki,nowitdi01,West,2004,NBA,False,Dallas Mavericks
+Shaquille O'Neal,onealsh01,West,2004,NBA,False,Boston Celtics
+Peja Stojaković,stojape01,West,2004,NBA,False,
+Vince Carter,cartevi01,East,2003,NBA,False,Atlanta Hawks
+Zydrunas Ilgauskas,ilgauzy01,East,2003,NBA,False,Miami Heat
+Allen Iverson,iversal01,East,2003,NBA,False,
+Michael Jordan,jordami01,East,2003,NBA,False,Washington Wizards
+Jason Kidd,kiddja01,East,2003,NBA,False,New York Knicks
+Jamal Mashburn,mashbja01,East,2003,NBA,False,New Orleans Hornets
+Tracy McGrady,mcgratr01,East,2003,NBA,False,Atlanta Hawks
+Brad Miller,millebr01,East,2003,NBA,False,Minnesota Timberwolves
+Jermaine O'Neal,onealje01,East,2003,NBA,False,Golden State Warriors
+Paul Pierce,piercpa01,East,2003,NBA,False,Los Angeles Clippers
+Antoine Walker,walkean02,East,2003,NBA,False,Minnesota Timberwolves
+Ben Wallace,wallabe01,East,2003,NBA,False,Detroit Pistons
+Kobe Bryant,bryanko01,West,2003,NBA,False,Los Angeles Lakers
+Tim Duncan,duncati01,West,2003,NBA,False,San Antonio Spurs
+Steve Francis,francst01,West,2003,NBA,False,Houston Rockets
+Kevin Garnett,garneke01,West,2003,NBA,False,Minnesota Timberwolves
+Stephon Marbury,marbust01,West,2003,NBA,False,Boston Celtics
+Shawn Marion,mariosh01,West,2003,NBA,False,Cleveland Cavaliers
+Yao Ming,mingya01,West,2003,NBA,False,Houston Rockets
+Steve Nash,nashst01,West,2003,NBA,False,Los Angeles Lakers
+Dirk Nowitzki,nowitdi01,West,2003,NBA,False,Dallas Mavericks
+Shaquille O'Neal,onealsh01,West,2003,NBA,False,Boston Celtics
+Gary Payton,paytoga01,West,2003,NBA,False,Miami Heat
+Peja Stojaković,stojape01,West,2003,NBA,True,
+Chris Webber,webbech01,West,2003,NBA,True,Golden State Warriors
+Shareef Abdur-Rahim,abdursh01,East,2002,NBA,False,Sacramento Kings
+Ray Allen,allenra02,East,2002,NBA,False,Miami Heat
+Vince Carter,cartevi01,East,2002,NBA,True,Atlanta Hawks
+Baron Davis,davisba01,East,2002,NBA,True,New York Knicks
+Allen Iverson,iversal01,East,2002,NBA,False,
+Michael Jordan,jordami01,East,2002,NBA,False,Washington Wizards
+Jason Kidd,kiddja01,East,2002,NBA,False,New York Knicks
+Tracy McGrady,mcgratr01,East,2002,NBA,False,Atlanta Hawks
+Alonzo Mourning,mournal01,East,2002,NBA,False,Miami Heat
+Dikembe Mutombo,mutomdi01,East,2002,NBA,False,Houston Rockets
+Jermaine O'Neal,onealje01,East,2002,NBA,False,Golden State Warriors
+Paul Pierce,piercpa01,East,2002,NBA,False,Los Angeles Clippers
+Antoine Walker,walkean02,East,2002,NBA,False,Minnesota Timberwolves
+Elton Brand,brandel01,West,2002,NBA,True,Philadelphia 76ers
+Kobe Bryant,bryanko01,West,2002,NBA,False,Los Angeles Lakers
+Tim Duncan,duncati01,West,2002,NBA,False,San Antonio Spurs
+Steve Francis,francst01,West,2002,NBA,False,Houston Rockets
+Kevin Garnett,garneke01,West,2002,NBA,False,Minnesota Timberwolves
+Karl Malone,malonka01,West,2002,NBA,True,Los Angeles Lakers
+Steve Nash,nashst01,West,2002,NBA,False,Los Angeles Lakers
+Dirk Nowitzki,nowitdi01,West,2002,NBA,False,Dallas Mavericks
+Shaquille O'Neal,onealsh01,West,2002,NBA,True,Boston Celtics
+Gary Payton,paytoga01,West,2002,NBA,False,Miami Heat
+Peja Stojaković,stojape01,West,2002,NBA,False,
+Wally Szczerbiak,szczewa02,West,2002,NBA,False,Cleveland Cavaliers
+Chris Webber,webbech01,West,2002,NBA,False,Golden State Warriors
+Ray Allen,allenra02,East,2001,NBA,False,Miami Heat
+Vince Carter,cartevi01,East,2001,NBA,False,Atlanta Hawks
+Antonio Davis,davisan01,East,2001,NBA,True,
+Grant Hill,hillgr01,East,2001,NBA,True,Los Angeles Clippers
+Allan Houston,houstal01,East,2001,NBA,False,New York Knicks
+Allen Iverson,iversal01,East,2001,NBA,False,
+Stephon Marbury,marbust01,East,2001,NBA,False,Boston Celtics
+Anthony Mason,masonan01,East,2001,NBA,False,Milwaukee Bucks
+Tracy McGrady,mcgratr01,East,2001,NBA,False,Atlanta Hawks
+Alonzo Mourning,mournal01,East,2001,NBA,True,Miami Heat
+Dikembe Mutombo,mutomdi01,East,2001,NBA,True,Houston Rockets
+Theo Ratliff,ratlith01,East,2001,NBA,True,Los Angeles Lakers
+Glenn Robinson,robingl01,East,2001,NBA,False,San Antonio Spurs
+Latrell Sprewell,sprewla01,East,2001,NBA,True,Minnesota Timberwolves
+Jerry Stackhouse,stackje01,East,2001,NBA,False,Brooklyn Nets
+Kobe Bryant,bryanko01,West,2001,NBA,False,Los Angeles Lakers
+Vlade Divac,divacvl01,West,2001,NBA,True,Los Angeles Lakers
+Tim Duncan,duncati01,West,2001,NBA,False,San Antonio Spurs
+Michael Finley,finlemi01,West,2001,NBA,False,
+Kevin Garnett,garneke01,West,2001,NBA,False,Minnesota Timberwolves
+Jason Kidd,kiddja01,West,2001,NBA,False,New York Knicks
+Karl Malone,malonka01,West,2001,NBA,False,Los Angeles Lakers
+Antonio McDyess,mcdyean01,West,2001,NBA,False,San Antonio Spurs
+Shaquille O'Neal,onealsh01,West,2001,NBA,True,Boston Celtics
+Gary Payton,paytoga01,West,2001,NBA,False,Miami Heat
+David Robinson,robinda01,West,2001,NBA,False,San Antonio Spurs
+Rasheed Wallace,wallara01,West,2001,NBA,False,New York Knicks
+Chris Webber,webbech01,West,2001,NBA,False,Golden State Warriors
+Ray Allen,allenra02,East,2000,NBA,False,Miami Heat
+Vince Carter,cartevi01,East,2000,NBA,False,Atlanta Hawks
+Dale Davis,davisda01,East,2000,NBA,False,Detroit Pistons
+Grant Hill,hillgr01,East,2000,NBA,False,Los Angeles Clippers
+Allan Houston,houstal01,East,2000,NBA,False,New York Knicks
+Allen Iverson,iversal01,East,2000,NBA,False,
+Eddie Jones,jonesed02,East,2000,NBA,False,Dallas Mavericks
+Reggie Miller,millere01,East,2000,NBA,False,Indiana Pacers
+Alonzo Mourning,mournal01,East,2000,NBA,False,Miami Heat
+Dikembe Mutombo,mutomdi01,East,2000,NBA,False,Houston Rockets
+Glenn Robinson,robingl01,East,2000,NBA,False,San Antonio Spurs
+Jerry Stackhouse,stackje01,East,2000,NBA,False,Brooklyn Nets
+Kobe Bryant,bryanko01,West,2000,NBA,False,Los Angeles Lakers
+Tim Duncan,duncati01,West,2000,NBA,False,San Antonio Spurs
+Michael Finley,finlemi01,West,2000,NBA,False,
+Kevin Garnett,garneke01,West,2000,NBA,False,Minnesota Timberwolves
+Jason Kidd,kiddja01,West,2000,NBA,False,New York Knicks
+Karl Malone,malonka01,West,2000,NBA,False,Los Angeles Lakers
+Shaquille O'Neal,onealsh01,West,2000,NBA,False,Boston Celtics
+Gary Payton,paytoga01,West,2000,NBA,False,Miami Heat
+David Robinson,robinda01,West,2000,NBA,False,San Antonio Spurs
+John Stockton,stockjo01,West,2000,NBA,False,Utah Jazz
+Rasheed Wallace,wallara01,West,2000,NBA,False,New York Knicks
+Chris Webber,webbech01,West,2000,NBA,False,Golden State Warriors
+Anfernee Hardaway,hardaan01,East,1998,NBA,False,Miami Heat
+Tim Hardaway,hardati01,East,1998,NBA,False,Indiana Pacers
+Grant Hill,hillgr01,East,1998,NBA,False,Los Angeles Clippers
+Michael Jordan,jordami01,East,1998,NBA,False,Washington Wizards
+Shawn Kemp,kempsh01,East,1998,NBA,False,Orlando Magic
+Reggie Miller,millere01,East,1998,NBA,False,Indiana Pacers
+Dikembe Mutombo,mutomdi01,East,1998,NBA,False,Houston Rockets
+Glen Rice,ricegl01,East,1998,NBA,False,Los Angeles Clippers
+Steve Smith,smithst01,East,1998,NBA,False,
+Rik Smits,smitsri01,East,1998,NBA,False,Indiana Pacers
+Antoine Walker,walkean02,East,1998,NBA,False,Minnesota Timberwolves
+Jayson Williams,willija01,East,1998,NBA,False,New Jersey Nets
+Vin Baker,bakervi01,West,1998,NBA,False,Los Angeles Clippers
+Kobe Bryant,bryanko01,West,1998,NBA,False,Los Angeles Lakers
+Tim Duncan,duncati01,West,1998,NBA,False,San Antonio Spurs
+Kevin Garnett,garneke01,West,1998,NBA,False,Minnesota Timberwolves
+Eddie Jones,jonesed02,West,1998,NBA,False,Dallas Mavericks
+Jason Kidd,kiddja01,West,1998,NBA,False,New York Knicks
+Karl Malone,malonka01,West,1998,NBA,False,Los Angeles Lakers
+Shaquille O'Neal,onealsh01,West,1998,NBA,False,Boston Celtics
+Gary Payton,paytoga01,West,1998,NBA,False,Miami Heat
+Mitch Richmond,richmmi01,West,1998,NBA,False,Los Angeles Lakers
+David Robinson,robinda01,West,1998,NBA,False,San Antonio Spurs
+Nick Van Exel,vanexni01,West,1998,NBA,False,San Antonio Spurs
+Vin Baker,bakervi01,East,1997,NBA,False,Los Angeles Clippers
+Terrell Brandon,brandte01,East,1997,NBA,False,Minnesota Timberwolves
+Joe Dumars,dumarjo01,East,1997,NBA,True,Detroit Pistons
+Patrick Ewing,ewingpa01,East,1997,NBA,True,Orlando Magic
+Anfernee Hardaway,hardaan01,East,1997,NBA,False,Miami Heat
+Tim Hardaway,hardati01,East,1997,NBA,False,Indiana Pacers
+Grant Hill,hillgr01,East,1997,NBA,False,Los Angeles Clippers
+Michael Jordan,jordami01,East,1997,NBA,False,Washington Wizards
+Christian Laettner,laettch01,East,1997,NBA,False,Miami Heat
+Alonzo Mourning,mournal01,East,1997,NBA,True,Miami Heat
+Dikembe Mutombo,mutomdi01,East,1997,NBA,False,Houston Rockets
+Scottie Pippen,pippesc01,East,1997,NBA,False,Chicago Bulls
+Glen Rice,ricegl01,East,1997,NBA,False,Los Angeles Clippers
+Chris Webber,webbech01,East,1997,NBA,True,Golden State Warriors
+Charles Barkley,barklch01,West,1997,NBA,True,Houston Rockets
+Clyde Drexler,drexlcl01,West,1997,NBA,True,Houston Rockets
+Kevin Garnett,garneke01,West,1997,NBA,True,Minnesota Timberwolves
+Chris Gatling,gatlich01,West,1997,NBA,True,Miami Heat
+Tom Gugliotta,guglito01,West,1997,NBA,False,
+Eddie Jones,jonesed02,West,1997,NBA,False,Dallas Mavericks
+Shawn Kemp,kempsh01,West,1997,NBA,False,Orlando Magic
+Karl Malone,malonka01,West,1997,NBA,False,Los Angeles Lakers
+Hakeem Olajuwon,olajuha01,West,1997,NBA,False,Toronto Raptors
+Shaquille O'Neal,onealsh01,West,1997,NBA,True,Boston Celtics
+Gary Payton,paytoga01,West,1997,NBA,False,Miami Heat
+Mitch Richmond,richmmi01,West,1997,NBA,False,Los Angeles Lakers
+Detlef Schrempf ,schrede01,West,1997,NBA,True,Portland Trail Blazers
+Latrell Sprewell,sprewla01,West,1997,NBA,False,Minnesota Timberwolves
+John Stockton,stockjo01,West,1997,NBA,False,Utah Jazz
+Vin Baker,bakervi01,East,1996,NBA,False,Los Angeles Clippers
+Terrell Brandon,brandte01,East,1996,NBA,False,Minnesota Timberwolves
+Patrick Ewing,ewingpa01,East,1996,NBA,False,Orlando Magic
+Anfernee Hardaway,hardaan01,East,1996,NBA,False,Miami Heat
+Grant Hill,hillgr01,East,1996,NBA,False,Los Angeles Clippers
+Juwan Howard,howarju01,East,1996,NBA,False,Miami Heat
+Michael Jordan,jordami01,East,1996,NBA,False,Washington Wizards
+Reggie Miller,millere01,East,1996,NBA,False,Indiana Pacers
+Alonzo Mourning,mournal01,East,1996,NBA,False,Miami Heat
+Shaquille O'Neal,onealsh01,East,1996,NBA,False,Boston Celtics
+Scottie Pippen,pippesc01,East,1996,NBA,False,Chicago Bulls
+Glen Rice,ricegl01,East,1996,NBA,False,Los Angeles Clippers
+Charles Barkley,barklch01,West,1996,NBA,False,Houston Rockets
+Clyde Drexler,drexlcl01,West,1996,NBA,False,Houston Rockets
+Sean Elliott,elliose01,West,1996,NBA,False,San Antonio Spurs
+Shawn Kemp,kempsh01,West,1996,NBA,False,Orlando Magic
+Jason Kidd,kiddja01,West,1996,NBA,False,New York Knicks
+Karl Malone,malonka01,West,1996,NBA,False,Los Angeles Lakers
+Dikembe Mutombo,mutomdi01,West,1996,NBA,False,Houston Rockets
+Hakeem Olajuwon,olajuha01,West,1996,NBA,False,Toronto Raptors
+Gary Payton,paytoga01,West,1996,NBA,False,Miami Heat
+Mitch Richmond,richmmi01,West,1996,NBA,False,Los Angeles Lakers
+David Robinson,robinda01,West,1996,NBA,False,San Antonio Spurs
+John Stockton,stockjo01,West,1996,NBA,False,Utah Jazz
+Vin Baker,bakervi01,East,1995,NBA,False,Los Angeles Clippers
+Dana Barros,barroda01,East,1995,NBA,False,Boston Celtics
+Joe Dumars,dumarjo01,East,1995,NBA,False,Detroit Pistons
+Patrick Ewing,ewingpa01,East,1995,NBA,False,Orlando Magic
+Anfernee Hardaway,hardaan01,East,1995,NBA,False,Miami Heat
+Grant Hill,hillgr01,East,1995,NBA,False,Los Angeles Clippers
+Tyrone Hill,hillty01,East,1995,NBA,False,Miami Heat
+Larry Johnson,johnsla02,East,1995,NBA,False,New York Knicks
+Reggie Miller,millere01,East,1995,NBA,False,Indiana Pacers
+Alonzo Mourning,mournal01,East,1995,NBA,False,Miami Heat
+Shaquille O'Neal,onealsh01,East,1995,NBA,False,Boston Celtics
+Scottie Pippen,pippesc01,East,1995,NBA,False,Chicago Bulls
+Charles Barkley,barklch01,West,1995,NBA,False,Houston Rockets
+Cedric Ceballos,cebalce01,West,1995,NBA,True,
+Shawn Kemp,kempsh01,West,1995,NBA,False,Orlando Magic
+Dan Majerle,majerda01,West,1995,NBA,False,Phoenix Suns
+Karl Malone,malonka01,West,1995,NBA,False,Los Angeles Lakers
+Dikembe Mutombo,mutomdi01,West,1995,NBA,True,Houston Rockets
+Hakeem Olajuwon,olajuha01,West,1995,NBA,False,Toronto Raptors
+Gary Payton,paytoga01,West,1995,NBA,False,Miami Heat
+Mitch Richmond,richmmi01,West,1995,NBA,False,Los Angeles Lakers
+David Robinson,robinda01,West,1995,NBA,False,San Antonio Spurs
+Detlef Schrempf,schrede01,West,1995,NBA,False,Portland Trail Blazers
+Latrell Sprewell,sprewla01,West,1995,NBA,False,Minnesota Timberwolves
+John Stockton,stockjo01,West,1995,NBA,False,Utah Jazz
+Kenny Anderson,anderke01,East,1994,NBA,False,
+B.J. Armstrong,armstbj01,East,1994,NBA,False,Chicago Bulls
+Mookie Blaylock,blaylmo01,East,1994,NBA,False,Golden State Warriors
+Derrick Coleman,colemde01,East,1994,NBA,False,Detroit Pistons
+Patrick Ewing,ewingpa01,East,1994,NBA,False,Orlando Magic
+Horace Grant,grantho01,East,1994,NBA,False,Los Angeles Lakers
+Alonzo Mourning,mournal01,East,1994,NBA,True,Miami Heat
+Charles Oakley,oaklech01,East,1994,NBA,True,Houston Rockets
+Shaquille O'Neal,onealsh01,East,1994,NBA,False,Boston Celtics
+Scottie Pippen,pippesc01,East,1994,NBA,False,Chicago Bulls
+Mark Price,pricema01,East,1994,NBA,False,Orlando Magic
+John Starks,starkjo01,East,1994,NBA,False,Utah Jazz
+Dominique Wilkins,wilkido01,East,1994,NBA,False,Orlando Magic
+Charles Barkley,barklch01,West,1994,NBA,True,Houston Rockets
+Clyde Drexler,drexlcl01,West,1994,NBA,False,Houston Rockets
+Kevin Johnson,johnske02,West,1994,NBA,False,Phoenix Suns
+Shawn Kemp,kempsh01,West,1994,NBA,False,Orlando Magic
+Karl Malone,malonka01,West,1994,NBA,False,Los Angeles Lakers
+Danny Manning,mannida01,West,1994,NBA,False,Detroit Pistons
+Hakeem Olajuwon,olajuha01,West,1994,NBA,False,Toronto Raptors
+Gary Payton,paytoga01,West,1994,NBA,True,Miami Heat
+Mitch Richmond,richmmi01,West,1994,NBA,False,Los Angeles Lakers
+Clifford Robinson,robincl02,West,1994,NBA,False,New Jersey Nets
+David Robinson,robinda01,West,1994,NBA,False,San Antonio Spurs
+Latrell Sprewell,sprewla01,West,1994,NBA,False,Minnesota Timberwolves
+John Stockton,stockjo01,West,1994,NBA,False,Utah Jazz
+Brad Daugherty,daughbr01,East,1993,NBA,False,Cleveland Cavaliers
+Joe Dumars,dumarjo01,East,1993,NBA,False,Detroit Pistons
+Patrick Ewing,ewingpa01,East,1993,NBA,False,Orlando Magic
+Larry Johnson,johnsla02,East,1993,NBA,False,New York Knicks
+Michael Jordan,jordami01,East,1993,NBA,False,Washington Wizards
+Larry Nance,nancela01,East,1993,NBA,False,Cleveland Cavaliers
+Shaquille O'Neal,onealsh01,East,1993,NBA,False,Boston Celtics
+Scottie Pippen,pippesc01,East,1993,NBA,False,Chicago Bulls
+Mark Price,pricema01,East,1993,NBA,False,Orlando Magic
+Detlef Schrempf,schrede01,East,1993,NBA,False,Portland Trail Blazers
+Isiah Thomas,thomais01,East,1993,NBA,False,Detroit Pistons
+Dominique Wilkins,wilkido01,East,1993,NBA,False,Orlando Magic
+Charles Barkley,barklch01,West,1993,NBA,False,Houston Rockets
+Clyde Drexler,drexlcl01,West,1993,NBA,False,Houston Rockets
+Sean Elliott,elliose01,West,1993,NBA,False,San Antonio Spurs
+Tim Hardaway,hardati01,West,1993,NBA,False,Indiana Pacers
+Shawn Kemp,kempsh01,West,1993,NBA,False,Orlando Magic
+Dan Majerle,majerda01,West,1993,NBA,False,Phoenix Suns
+Karl Malone,malonka01,West,1993,NBA,False,Los Angeles Lakers
+Danny Manning,mannida01,West,1993,NBA,False,Detroit Pistons
+Chris Mullin,mullich01,West,1993,NBA,True,Golden State Warriors
+Hakeem Olajuwon,olajuha01,West,1993,NBA,False,Toronto Raptors
+Terry Porter,portete01,West,1993,NBA,True,San Antonio Spurs
+Mitch Richmond,richmmi01,West,1993,NBA,True,Los Angeles Lakers
+David Robinson,robinda01,West,1993,NBA,False,San Antonio Spurs
+John Stockton,stockjo01,West,1993,NBA,False,Utah Jazz
+Michael Adams,adamsmi01,East,1992,NBA,True,Charlotte Hornets
+Charles Barkley,barklch01,East,1992,NBA,False,Houston Rockets
+Larry Bird,birdla01,East,1992,NBA,True,Boston Celtics
+Brad Daugherty,daughbr01,East,1992,NBA,False,Cleveland Cavaliers
+Joe Dumars,dumarjo01,East,1992,NBA,False,Detroit Pistons
+Patrick Ewing,ewingpa01,East,1992,NBA,False,Orlando Magic
+Michael Jordan,jordami01,East,1992,NBA,False,Washington Wizards
+Reggie Lewis,lewisre01,East,1992,NBA,False,Boston Celtics
+Scottie Pippen,pippesc01,East,1992,NBA,False,Chicago Bulls
+Mark Price,pricema01,East,1992,NBA,False,Orlando Magic
+Dennis Rodman,rodmade01,East,1992,NBA,False,Dallas Mavericks
+Isiah Thomas,thomais01,East,1992,NBA,False,Detroit Pistons
+Dominique Wilkins,wilkido01,East,1992,NBA,True,Orlando Magic
+Kevin Willis,willike02,East,1992,NBA,True,Dallas Mavericks
+Clyde Drexler,drexlcl01,West,1992,NBA,False,Houston Rockets
+Tim Hardaway,hardati01,West,1992,NBA,False,Indiana Pacers
+Jeff Hornacek,hornaje01,West,1992,NBA,False,Utah Jazz
+Magic Johnson,johnsma02,West,1992,NBA,False,Los Angeles Lakers
+Dan Majerle,majerda01,West,1992,NBA,False,Phoenix Suns
+Karl Malone,malonka01,West,1992,NBA,False,Los Angeles Lakers
+Chris Mullin,mullich01,West,1992,NBA,False,Golden State Warriors
+Dikembe Mutombo,mutomdi01,West,1992,NBA,False,Houston Rockets
+Hakeem Olajuwon,olajuha01,West,1992,NBA,False,Toronto Raptors
+David Robinson,robinda01,West,1992,NBA,False,San Antonio Spurs
+John Stockton,stockjo01,West,1992,NBA,False,Utah Jazz
+Otis Thorpe,thorpot01,West,1992,NBA,False,Charlotte Hornets
+James Worthy,worthja01,West,1992,NBA,False,Los Angeles Lakers
+Charles Barkley,barklch01,East,1991,NBA,False,Houston Rockets
+Larry Bird,birdla01,East,1991,NBA,True,Boston Celtics
+Brad Daugherty,daughbr01,East,1991,NBA,False,Cleveland Cavaliers
+Joe Dumars,dumarjo01,East,1991,NBA,False,Detroit Pistons
+Patrick Ewing,ewingpa01,East,1991,NBA,False,Orlando Magic
+Hersey Hawkins,hawkihe01,East,1991,NBA,True,Charlotte Hornets
+Michael Jordan,jordami01,East,1991,NBA,False,Washington Wizards
+Bernard King,kingbe01,East,1991,NBA,False,New Jersey Nets
+Kevin McHale,mchalke01,East,1991,NBA,False,Boston Celtics
+Robert Parish,parisro01,East,1991,NBA,False,Chicago Bulls
+Ricky Pierce,piercri01,East,1991,NBA,False,Milwaukee Bucks
+Alvin Robertson,roberal01,East,1991,NBA,False,Toronto Raptors
+Isiah Thomas,thomais01,East,1991,NBA,True,Detroit Pistons
+Dominique Wilkins,wilkido01,East,1991,NBA,False,Orlando Magic
+Tom Chambers,chambto01,West,1991,NBA,False,Philadelphia 76ers
+Clyde Drexler,drexlcl01,West,1991,NBA,False,Houston Rockets
+Kevin Duckworth,duckwke01,West,1991,NBA,False,Los Angeles Clippers
+Tim Hardaway,hardati01,West,1991,NBA,False,Indiana Pacers
+Kevin Johnson,johnske02,West,1991,NBA,False,Phoenix Suns
+Magic Johnson,johnsma02,West,1991,NBA,False,Los Angeles Lakers
+Karl Malone,malonka01,West,1991,NBA,False,Los Angeles Lakers
+Chris Mullin,mullich01,West,1991,NBA,False,Golden State Warriors
+Terry Porter,portete01,West,1991,NBA,False,San Antonio Spurs
+David Robinson,robinda01,West,1991,NBA,False,San Antonio Spurs
+John Stockton,stockjo01,West,1991,NBA,False,Utah Jazz
+James Worthy,worthja01,West,1991,NBA,False,Los Angeles Lakers
+Charles Barkley,barklch01,East,1990,NBA,False,Houston Rockets
+Larry Bird,birdla01,East,1990,NBA,False,Boston Celtics
+Joe Dumars,dumarjo01,East,1990,NBA,False,Detroit Pistons
+Patrick Ewing,ewingpa01,East,1990,NBA,False,Orlando Magic
+Michael Jordan,jordami01,East,1990,NBA,False,Washington Wizards
+Kevin McHale,mchalke01,East,1990,NBA,False,Boston Celtics
+Reggie Miller,millere01,East,1990,NBA,False,Indiana Pacers
+Robert Parish,parisro01,East,1990,NBA,False,Chicago Bulls
+Scottie Pippen,pippesc01,East,1990,NBA,False,Chicago Bulls
+Dennis Rodman,rodmade01,East,1990,NBA,False,Dallas Mavericks
+Isiah Thomas,thomais01,East,1990,NBA,False,Detroit Pistons
+Dominique Wilkins,wilkido01,East,1990,NBA,False,Orlando Magic
+Rolando Blackman,blackro01,West,1990,NBA,True,New York Knicks
+Tom Chambers,chambto01,West,1990,NBA,False,Philadelphia 76ers
+Clyde Drexler,drexlcl01,West,1990,NBA,False,Houston Rockets
+A.C. Green,greenac01,West,1990,NBA,False,Miami Heat
+Kevin Johnson,johnske02,West,1990,NBA,False,Phoenix Suns
+Magic Johnson,johnsma02,West,1990,NBA,False,Los Angeles Lakers
+Fat Lever,leverfa01,West,1990,NBA,False,Dallas Mavericks
+Karl Malone,malonka01,West,1990,NBA,True,Los Angeles Lakers
+Chris Mullin,mullich01,West,1990,NBA,False,Golden State Warriors
+Hakeem Olajuwon,olajuha01,West,1990,NBA,False,Toronto Raptors
+David Robinson,robinda01,West,1990,NBA,False,San Antonio Spurs
+John Stockton,stockjo01,West,1990,NBA,False,Utah Jazz
+James Worthy,worthja01,West,1990,NBA,False,Los Angeles Lakers
+Charles Barkley,barklch01,East,1989,NBA,False,Houston Rockets
+Terry Cummings,cummite01,East,1989,NBA,False,Golden State Warriors
+Brad Daugherty,daughbr01,East,1989,NBA,False,Cleveland Cavaliers
+Patrick Ewing,ewingpa01,East,1989,NBA,False,Orlando Magic
+Mark Jackson,jacksma01,East,1989,NBA,False,Houston Rockets
+Michael Jordan,jordami01,East,1989,NBA,False,Washington Wizards
+Moses Malone,malonmo01,East,1989,NBA,False,San Antonio Spurs
+Kevin McHale,mchalke01,East,1989,NBA,False,Boston Celtics
+Larry Nance,nancela01,East,1989,NBA,False,Cleveland Cavaliers
+Mark Price,pricema01,East,1989,NBA,False,Orlando Magic
+Isiah Thomas,thomais01,East,1989,NBA,False,Detroit Pistons
+Dominique Wilkins,wilkido01,East,1989,NBA,False,Orlando Magic
+Kareem Abdul-Jabbar,abdulka01,West,1989,NBA,True,Los Angeles Lakers
+Tom Chambers,chambto01,West,1989,NBA,False,Philadelphia 76ers
+Clyde Drexler,drexlcl01,West,1989,NBA,False,Houston Rockets
+Kevin Duckworth,duckwke01,West,1989,NBA,False,Los Angeles Clippers
+Mark Eaton,eatonma01,West,1989,NBA,False,Utah Jazz
+Dale Ellis,ellisda01,West,1989,NBA,False,
+Alex English,englial01,West,1989,NBA,False,Dallas Mavericks
+Magic Johnson,johnsma02,West,1989,NBA,True,Los Angeles Lakers
+Karl Malone,malonka01,West,1989,NBA,False,Los Angeles Lakers
+Chris Mullin,mullich01,West,1989,NBA,False,Golden State Warriors
+Hakeem Olajuwon,olajuha01,West,1989,NBA,False,Toronto Raptors
+John Stockton,stockjo01,West,1989,NBA,False,Utah Jazz
+James Worthy,worthja01,West,1989,NBA,False,Los Angeles Lakers
+Danny Ainge,aingeda01,East,1988,NBA,False,Phoenix Suns
+Charles Barkley,barklch01,East,1988,NBA,False,Houston Rockets
+Larry Bird,birdla01,East,1988,NBA,False,Boston Celtics
+Maurice Cheeks,cheekma01,East,1988,NBA,False,New Jersey Nets
+Brad Daugherty,daughbr01,East,1988,NBA,False,Cleveland Cavaliers
+Patrick Ewing,ewingpa01,East,1988,NBA,False,Orlando Magic
+Michael Jordan,jordami01,East,1988,NBA,False,Washington Wizards
+Moses Malone,malonmo01,East,1988,NBA,False,San Antonio Spurs
+Kevin McHale,mchalke01,East,1988,NBA,False,Boston Celtics
+Doc Rivers,riverdo01,East,1988,NBA,False,San Antonio Spurs
+Isiah Thomas,thomais01,East,1988,NBA,False,Detroit Pistons
+Dominique Wilkins,wilkido01,East,1988,NBA,False,Orlando Magic
+Kareem Abdul-Jabbar,abdulka01,West,1988,NBA,False,Los Angeles Lakers
+Mark Aguirre,aguirma01,West,1988,NBA,False,Los Angeles Clippers
+James Donaldson,donalja01,West,1988,NBA,True,Utah Jazz
+Clyde Drexler,drexlcl01,West,1988,NBA,False,Houston Rockets
+Alex English,englial01,West,1988,NBA,False,Dallas Mavericks
+Magic Johnson,johnsma02,West,1988,NBA,False,Los Angeles Lakers
+Steve Johnson,johnsst03,West,1988,NBA,True,Golden State Warriors
+Fat Lever,leverfa01,West,1988,NBA,False,Dallas Mavericks
+Karl Malone,malonka01,West,1988,NBA,False,Los Angeles Lakers
+Xavier McDaniel,mcdanxa01,West,1988,NBA,False,New Jersey Nets
+Hakeem Olajuwon,olajuha01,West,1988,NBA,False,Toronto Raptors
+Alvin Robertson,roberal01,West,1988,NBA,False,Toronto Raptors
+James Worthy,worthja01,West,1988,NBA,False,Los Angeles Lakers
+Charles Barkley,barklch01,East,1987,NBA,False,Houston Rockets
+Larry Bird,birdla01,East,1987,NBA,False,Boston Celtics
+Maurice Cheeks,cheekma01,East,1987,NBA,False,New Jersey Nets
+Julius Erving,ervinju01,East,1987,NBA,False,Philadelphia 76ers
+Michael Jordan,jordami01,East,1987,NBA,False,Washington Wizards
+Bill Laimbeer,laimbbi01,East,1987,NBA,False,Detroit Pistons
+Jeff Malone,malonje01,East,1987,NBA,False,
+Moses Malone,malonmo01,East,1987,NBA,False,San Antonio Spurs
+Kevin McHale,mchalke01,East,1987,NBA,False,Boston Celtics
+Robert Parish,parisro01,East,1987,NBA,False,Chicago Bulls
+Isiah Thomas,thomais01,East,1987,NBA,False,Detroit Pistons
+Dominique Wilkins,wilkido01,East,1987,NBA,False,Orlando Magic
+Kareem Abdul-Jabbar,abdulka01,West,1987,NBA,False,Los Angeles Lakers
+Mark Aguirre,aguirma01,West,1987,NBA,False,Los Angeles Clippers
+Rolando Blackman,blackro01,West,1987,NBA,False,New York Knicks
+Joe Barry Carroll,carrojo01,West,1987,NBA,False,Phoenix Suns
+Tom Chambers,chambto01,West,1987,NBA,True,Philadelphia 76ers
+Walter Davis,daviswa03,West,1987,NBA,False,Denver Nuggets
+Alex English,englial01,West,1987,NBA,False,Dallas Mavericks
+Sleepy Floyd,floydsl01,West,1987,NBA,False,New Jersey Nets
+Magic Johnson,johnsma02,West,1987,NBA,False,Los Angeles Lakers
+Hakeem Olajuwon,olajuha01,West,1987,NBA,False,Toronto Raptors
+Alvin Robertson,roberal01,West,1987,NBA,False,Toronto Raptors
+Ralph Sampson,sampsra01,West,1987,NBA,True,Washington Bullets
+James Worthy,worthja01,West,1987,NBA,False,Los Angeles Lakers
+Larry Bird,birdla01,East,1986,NBA,False,Boston Celtics
+Maurice Cheeks,cheekma01,East,1986,NBA,False,New Jersey Nets
+Julius Erving,ervinju01,East,1986,NBA,False,Philadelphia 76ers
+Patrick Ewing,ewingpa01,East,1986,NBA,True,Orlando Magic
+Michael Jordan,jordami01,East,1986,NBA,True,Washington Wizards
+Jeff Malone,malonje01,East,1986,NBA,False,
+Moses Malone,malonmo01,East,1986,NBA,False,San Antonio Spurs
+Kevin McHale,mchalke01,East,1986,NBA,False,Boston Celtics
+Sidney Moncrief,moncrsi01,East,1986,NBA,False,Atlanta Hawks
+Robert Parish,parisro01,East,1986,NBA,False,Chicago Bulls
+Isiah Thomas,thomais01,East,1986,NBA,False,Detroit Pistons
+Dominique Wilkins,wilkido01,East,1986,NBA,False,Orlando Magic
+Buck Williams,willibu01,East,1986,NBA,False,New York Knicks
+Kareem Abdul-Jabbar,abdulka01,West,1986,NBA,False,Los Angeles Lakers
+Rolando Blackman,blackro01,West,1986,NBA,False,New York Knicks
+Adrian Dantley,dantlad01,West,1986,NBA,False,Milwaukee Bucks
+Clyde Drexler,drexlcl01,West,1986,NBA,False,Houston Rockets
+Alex English,englial01,West,1986,NBA,False,Dallas Mavericks
+Artis Gilmore,gilmoar01,West,1986,NBA,False,
+Marques Johnson,johnsma01,West,1986,NBA,False,Golden State Warriors
+Magic Johnson,johnsma02,West,1986,NBA,False,Los Angeles Lakers
+Hakeem Olajuwon,olajuha01,West,1986,NBA,False,Toronto Raptors
+Alvin Robertson,roberal01,West,1986,NBA,False,Toronto Raptors
+Ralph Sampson,sampsra01,West,1986,NBA,False,Washington Bullets
+James Worthy,worthja01,West,1986,NBA,False,Los Angeles Lakers
+Larry Bird,birdla01,East,1985,NBA,False,Boston Celtics
+Terry Cummings,cummite01,East,1985,NBA,False,Golden State Warriors
+Julius Erving,ervinju01,East,1985,NBA,False,Philadelphia 76ers
+Dennis Johnson,johnsde01,East,1985,NBA,False,Boston Celtics
+Michael Jordan,jordami01,East,1985,NBA,False,Washington Wizards
+Bernard King,kingbe01,East,1985,NBA,False,New Jersey Nets
+Bill Laimbeer,laimbbi01,East,1985,NBA,True,Detroit Pistons
+Moses Malone,malonmo01,East,1985,NBA,False,San Antonio Spurs
+Sidney Moncrief,moncrsi01,East,1985,NBA,False,Atlanta Hawks
+Robert Parish,parisro01,East,1985,NBA,False,Chicago Bulls
+Michael Ray Richardson,richami01,East,1985,NBA,False,New Jersey Nets
+Jeff Ruland,rulanje01,East,1985,NBA,True,Detroit Pistons
+Isiah Thomas,thomais01,East,1985,NBA,False,Detroit Pistons
+Kareem Abdul-Jabbar,abdulka01,West,1985,NBA,False,Los Angeles Lakers
+Rolando Blackman,blackro01,West,1985,NBA,False,New York Knicks
+Adrian Dantley,dantlad01,West,1985,NBA,False,Milwaukee Bucks
+Alex English,englial01,West,1985,NBA,False,Dallas Mavericks
+George Gervin,gervige01,West,1985,NBA,False,Chicago Bulls
+Magic Johnson,johnsma02,West,1985,NBA,False,Los Angeles Lakers
+Larry Nance,nancela01,West,1985,NBA,False,Cleveland Cavaliers
+Calvin Natt,nattca01,West,1985,NBA,False,Indiana Pacers
+Norm Nixon,nixonno01,West,1985,NBA,False,Los Angeles Clippers
+Hakeem Olajuwon,olajuha01,West,1985,NBA,False,Toronto Raptors
+Ralph Sampson,sampsra01,West,1985,NBA,False,Washington Bullets
+Jack Sikma,sikmaja01,West,1985,NBA,False,Milwaukee Bucks
+Larry Bird,birdla01,East,1984,NBA,False,Boston Celtics
+Otis Birdsong,birdsot01,East,1984,NBA,False,Boston Celtics
+Julius Erving,ervinju01,East,1984,NBA,False,Philadelphia 76ers
+Bernard King,kingbe01,East,1984,NBA,False,New Jersey Nets
+Bill Laimbeer,laimbbi01,East,1984,NBA,True,Detroit Pistons
+Moses Malone,malonmo01,East,1984,NBA,True,San Antonio Spurs
+Kevin McHale,mchalke01,East,1984,NBA,False,Boston Celtics
+Sidney Moncrief,moncrsi01,East,1984,NBA,False,Atlanta Hawks
+Robert Parish,parisro01,East,1984,NBA,False,Chicago Bulls
+Jeff Ruland,rulanje01,East,1984,NBA,False,Detroit Pistons
+Isiah Thomas,thomais01,East,1984,NBA,False,Detroit Pistons
+Andrew Toney,toneyan01,East,1984,NBA,False,Philadelphia 76ers
+Kelly Tripucka,tripuke01,East,1984,NBA,False,Charlotte Hornets
+Kareem Abdul-Jabbar,abdulka01,West,1984,NBA,False,Los Angeles Lakers
+Mark Aguirre,aguirma01,West,1984,NBA,False,Los Angeles Clippers
+Adrian Dantley,dantlad01,West,1984,NBA,False,Milwaukee Bucks
+Walter Davis,daviswa03,West,1984,NBA,False,Denver Nuggets
+Alex English,englial01,West,1984,NBA,False,Dallas Mavericks
+George Gervin,gervige01,West,1984,NBA,False,Chicago Bulls
+Rickey Green,greenri01,West,1984,NBA,False,Boston Celtics
+Magic Johnson,johnsma02,West,1984,NBA,False,Los Angeles Lakers
+Jim Paxson,paxsoji02,West,1984,NBA,False,Boston Celtics
+Ralph Sampson,sampsra01,West,1984,NBA,False,Washington Bullets
+Jack Sikma,sikmaja01,West,1984,NBA,False,Milwaukee Bucks
+Kiki Vandeweghe,vandeki01,West,1984,NBA,False,Los Angeles Clippers
+Larry Bird,birdla01,East,1983,NBA,False,Boston Celtics
+Maurice Cheeks,cheekma01,East,1983,NBA,False,New Jersey Nets
+Julius Erving,ervinju01,East,1983,NBA,False,Philadelphia 76ers
+Marques Johnson,johnsma01,East,1983,NBA,False,Golden State Warriors
+Bill Laimbeer,laimbbi01,East,1983,NBA,False,Detroit Pistons
+Moses Malone,malonmo01,East,1983,NBA,False,San Antonio Spurs
+Sidney Moncrief,moncrsi01,East,1983,NBA,False,Atlanta Hawks
+Robert Parish,parisro01,East,1983,NBA,False,Chicago Bulls
+Reggie Theus,theusre01,East,1983,NBA,False,New Jersey Nets
+Isiah Thomas,thomais01,East,1983,NBA,False,Detroit Pistons
+Andrew Toney,toneyan01,East,1983,NBA,False,Philadelphia 76ers
+Buck Williams,willibu01,East,1983,NBA,False,New York Knicks
+Kareem Abdul-Jabbar,abdulka01,West,1983,NBA,False,Los Angeles Lakers
+Alex English,englial01,West,1983,NBA,False,Dallas Mavericks
+George Gervin,gervige01,West,1983,NBA,False,Chicago Bulls
+Artis Gilmore,gilmoar01,West,1983,NBA,False,
+Magic Johnson,johnsma02,West,1983,NBA,False,Los Angeles Lakers
+Maurice Lucas,lucasma01,West,1983,NBA,False,Portland Trail Blazers
+Jim Paxson,paxsoji02,West,1983,NBA,False,Boston Celtics
+Jack Sikma,sikmaja01,West,1983,NBA,False,Milwaukee Bucks
+David Thompson,thompda01,West,1983,NBA,False,Seattle SuperSonics
+Kiki Vandeweghe,vandeki01,West,1983,NBA,False,Los Angeles Clippers
+Jamaal Wilkes,wilkeja01,West,1983,NBA,False,Los Angeles Clippers
+Gus Williams,willigu01,West,1983,NBA,False,Atlanta Hawks
+Tiny Archibald,architi01,East,1982,NBA,False,Milwaukee Bucks
+Larry Bird,birdla01,East,1982,NBA,False,Boston Celtics
+Julius Erving,ervinju01,East,1982,NBA,False,Philadelphia 76ers
+Artis Gilmore,gilmoar01,East,1982,NBA,False,
+Bobby Jones,jonesbo01,East,1982,NBA,False,Philadelphia 76ers
+Bob Lanier,laniebo01,East,1982,NBA,False,Milwaukee Bucks
+Sidney Moncrief,moncrsi01,East,1982,NBA,False,Atlanta Hawks
+Robert Parish,parisro01,East,1982,NBA,False,Chicago Bulls
+Michael Ray Richardson,richami01,East,1982,NBA,False,New Jersey Nets
+Dan Roundfield,roundda01,East,1982,NBA,True,Washington Bullets
+Isiah Thomas,thomais01,East,1982,NBA,False,Detroit Pistons
+Kelly Tripucka,tripuke01,East,1982,NBA,True,Charlotte Hornets
+Buck Williams,willibu01,East,1982,NBA,False,New York Knicks
+Kareem Abdul-Jabbar,abdulka01,West,1982,NBA,False,Los Angeles Lakers
+Adrian Dantley,dantlad01,West,1982,NBA,False,Milwaukee Bucks
+Alex English,englial01,West,1982,NBA,False,Dallas Mavericks
+George Gervin,gervige01,West,1982,NBA,False,Chicago Bulls
+Dennis Johnson,johnsde01,West,1982,NBA,False,Boston Celtics
+Magic Johnson,johnsma02,West,1982,NBA,False,Los Angeles Lakers
+Bernard King,kingbe01,West,1982,NBA,False,New Jersey Nets
+Moses Malone,malonmo01,West,1982,NBA,False,San Antonio Spurs
+Norm Nixon,nixonno01,West,1982,NBA,False,Los Angeles Clippers
+Lonnie Shelton,sheltlo01,West,1982,NBA,False,Cleveland Cavaliers
+Jack Sikma,sikmaja01,West,1982,NBA,False,Milwaukee Bucks
+Gus Williams,willigu01,West,1982,NBA,False,Atlanta Hawks
+Tiny Archibald,architi01,East,1981,NBA,False,Milwaukee Bucks
+Larry Bird,birdla01,East,1981,NBA,False,Boston Celtics
+Julius Erving,ervinju01,East,1981,NBA,False,Philadelphia 76ers
+Artis Gilmore,gilmoar01,East,1981,NBA,False,
+Eddie Johnson,johnsed02,East,1981,NBA,False,Seattle SuperSonics
+Marques Johnson,johnsma01,East,1981,NBA,False,Golden State Warriors
+Bobby Jones,jonesbo01,East,1981,NBA,False,Philadelphia 76ers
+Mike Mitchell,mitchmi01,East,1981,NBA,True,San Antonio Spurs
+Robert Parish,parisro01,East,1981,NBA,False,Chicago Bulls
+Michael Ray Richardson,richami01,East,1981,NBA,False,New Jersey Nets
+Dan Roundfield,roundda01,East,1981,NBA,True,Washington Bullets
+Reggie Theus,theusre01,East,1981,NBA,False,New Jersey Nets
+Kareem Abdul-Jabbar,abdulka01,West,1981,NBA,False,Los Angeles Lakers
+Otis Birdsong,birdsot01,West,1981,NBA,False,Boston Celtics
+Adrian Dantley,dantlad01,West,1981,NBA,False,Milwaukee Bucks
+Walter Davis,daviswa03,West,1981,NBA,False,Denver Nuggets
+George Gervin,gervige01,West,1981,NBA,False,Chicago Bulls
+Dennis Johnson,johnsde01,West,1981,NBA,False,Boston Celtics
+Moses Malone,malonmo01,West,1981,NBA,False,San Antonio Spurs
+Truck Robinson,robintr01,West,1981,NBA,False,New York Knicks
+Jack Sikma,sikmaja01,West,1981,NBA,False,Milwaukee Bucks
+Paul Westphal,westppa01,West,1981,NBA,False,Phoenix Suns
+Jamaal Wilkes,wilkeja01,West,1981,NBA,False,Los Angeles Clippers
+Tiny Archibald,architi01,East,1980,NBA,False,Milwaukee Bucks
+Larry Bird,birdla01,East,1980,NBA,False,Boston Celtics
+Bill Cartwright,cartwbi01,East,1980,NBA,True,Seattle SuperSonics
+Dave Cowens,cowenda01,East,1980,NBA,True,Milwaukee Bucks
+John Drew,drewjo01,East,1980,NBA,False,Utah Jazz
+Julius Erving,ervinju01,East,1980,NBA,False,Philadelphia 76ers
+George Gervin,gervige01,East,1980,NBA,False,Chicago Bulls
+Elvin Hayes,hayesel01,East,1980,NBA,False,Houston Rockets
+Eddie Johnson,johnsed02,East,1980,NBA,False,Seattle SuperSonics
+Moses Malone,malonmo01,East,1980,NBA,False,San Antonio Spurs
+Michael Ray Richardson,richami01,East,1980,NBA,False,New Jersey Nets
+Dan Roundfield,roundda01,East,1980,NBA,False,Washington Bullets
+Kareem Abdul-Jabbar,abdulka01,West,1980,NBA,False,Los Angeles Lakers
+Otis Birdsong,birdsot01,West,1980,NBA,False,Boston Celtics
+Adrian Dantley,dantlad01,West,1980,NBA,False,Milwaukee Bucks
+Walter Davis,daviswa03,West,1980,NBA,False,Denver Nuggets
+World B. Free,freewo01,West,1980,NBA,False,Houston Rockets
+Dennis Johnson,johnsde01,West,1980,NBA,False,Boston Celtics
+Marques Johnson,johnsma01,West,1980,NBA,False,Golden State Warriors
+Magic Johnson,johnsma02,West,1980,NBA,False,Los Angeles Lakers
+Jack Sikma,sikmaja01,West,1980,NBA,False,Milwaukee Bucks
+Kermit Washington,washike01,West,1980,NBA,True,Golden State Warriors
+Scott Wedman,wedmasc01,West,1980,NBA,True,Boston Celtics
+Paul Westphal,westppa01,West,1980,NBA,False,Phoenix Suns
+Doug Collins,collido01,East,1979,NBA,True,Philadelphia 76ers
+Bob Dandridge,dandrbo01,East,1979,NBA,False,Milwaukee Bucks
+Julius Erving,ervinju01,East,1979,NBA,False,Philadelphia 76ers
+George Gervin,gervige01,East,1979,NBA,False,Chicago Bulls
+Elvin Hayes,hayesel01,East,1979,NBA,False,Houston Rockets
+Larry Kenon,kenonla01,East,1979,NBA,False,
+Bob Lanier,laniebo01,East,1979,NBA,False,Milwaukee Bucks
+Moses Malone,malonmo01,East,1979,NBA,False,San Antonio Spurs
+Pete Maravich,maravpe01,East,1979,NBA,False,
+Calvin Murphy,murphca01,East,1979,NBA,False,Houston Rockets
+Campy Russell,russeca02,East,1979,NBA,False,Cleveland Cavaliers
+Rudy Tomjanovich,tomjaru01,East,1979,NBA,False,Houston Rockets
+Kareem Abdul-Jabbar,abdulka01,West,1979,NBA,False,Los Angeles Lakers
+Otis Birdsong,birdsot01,West,1979,NBA,False,Boston Celtics
+Walter Davis,daviswa03,West,1979,NBA,False,Denver Nuggets
+Artis Gilmore,gilmoar01,West,1979,NBA,False,
+Dennis Johnson,johnsde01,West,1979,NBA,False,Boston Celtics
+Marques Johnson,johnsma01,West,1979,NBA,False,Golden State Warriors
+Maurice Lucas,lucasma01,West,1979,NBA,False,Portland Trail Blazers
+George McGinnis,mcginge01,West,1979,NBA,False,Indiana Pacers
+Jack Sikma,sikmaja01,West,1979,NBA,False,Milwaukee Bucks
+David Thompson,thompda01,West,1979,NBA,False,Seattle SuperSonics
+Paul Westphal,westppa01,West,1979,NBA,False,Phoenix Suns
+Doug Collins,collido01,East,1978,NBA,False,Philadelphia 76ers
+Dave Cowens,cowenda01,East,1978,NBA,False,Milwaukee Bucks
+Julius Erving,ervinju01,East,1978,NBA,False,Philadelphia 76ers
+George Gervin,gervige01,East,1978,NBA,False,Chicago Bulls
+John Havlicek,havlijo01,East,1978,NBA,True,Boston Celtics
+Elvin Hayes,hayesel01,East,1978,NBA,True,Houston Rockets
+Larry Kenon,kenonla01,East,1978,NBA,False,
+Billy Knight,knighbi01,East,1978,NBA,True,
+Moses Malone,malonmo01,East,1978,NBA,False,San Antonio Spurs
+Pete Maravich,maravpe01,East,1978,NBA,True,
+Bob McAdoo,mcadobo01,East,1978,NBA,False,Philadelphia 76ers
+Truck Robinson,robintr01,East,1978,NBA,False,New York Knicks
+Randy Smith,smithra01,East,1978,NBA,False,
+Rick Barry,barryri01,West,1978,NBA,False,Houston Rockets
+Walter Davis,daviswa03,West,1978,NBA,False,Denver Nuggets
+Artis Gilmore,gilmoar01,West,1978,NBA,False,
+Lionel Hollins,hollili01,West,1978,NBA,False,Houston Rockets
+Bobby Jones,jonesbo01,West,1978,NBA,False,Philadelphia 76ers
+Bob Lanier,laniebo01,West,1978,NBA,False,Milwaukee Bucks
+Maurice Lucas,lucasma01,West,1978,NBA,False,Portland Trail Blazers
+David Thompson,thompda01,West,1978,NBA,False,Seattle SuperSonics
+Bill Walton,waltobi01,West,1978,NBA,False,Boston Celtics
+Paul Westphal,westppa01,West,1978,NBA,False,Phoenix Suns
+Brian Winters,wintebr01,West,1978,NBA,False,Milwaukee Bucks
+Phil Chenier,cheniph01,East,1977,NBA,True,Golden State Warriors
+Doug Collins,collido01,East,1977,NBA,False,Philadelphia 76ers
+Dave Cowens,cowenda01,East,1977,NBA,True,Milwaukee Bucks
+Julius Erving,ervinju01,East,1977,NBA,False,Philadelphia 76ers
+George Gervin,gervige01,East,1977,NBA,False,Chicago Bulls
+John Havlicek,havlijo01,East,1977,NBA,False,Boston Celtics
+Elvin Hayes,hayesel01,East,1977,NBA,False,Houston Rockets
+Pete Maravich,maravpe01,East,1977,NBA,False,
+Bob McAdoo,mcadobo01,East,1977,NBA,False,Philadelphia 76ers
+George McGinnis,mcginge01,East,1977,NBA,False,Indiana Pacers
+Earl Monroe,monroea01,East,1977,NBA,False,New York Knicks
+Rudy Tomjanovich,tomjaru01,East,1977,NBA,False,Houston Rockets
+Jo Jo White,whitejo01,East,1977,NBA,False,Kansas City Kings
+Kareem Abdul-Jabbar,abdulka01,West,1977,NBA,False,Los Angeles Lakers
+Rick Barry,barryri01,West,1977,NBA,False,Houston Rockets
+Don Buse,busedo01,West,1977,NBA,True,Kansas City Kings
+Dan Issel,isselda01,West,1977,NBA,False,Denver Nuggets
+Bobby Jones,jonesbo01,West,1977,NBA,False,Philadelphia 76ers
+Billy Knight,knighbi01,West,1977,NBA,False,
+Bob Lanier,laniebo01,West,1977,NBA,False,Milwaukee Bucks
+Maurice Lucas,lucasma01,West,1977,NBA,False,Portland Trail Blazers
+Phil Smith,smithph01,West,1977,NBA,False,Seattle SuperSonics
+David Thompson,thompda01,West,1977,NBA,False,Seattle SuperSonics
+Norm Van Lier,vanlino01,West,1977,NBA,False,Milwaukee Bucks
+Bill Walton,waltobi01,West,1977,NBA,True,Boston Celtics
+Paul Westphal,westppa01,West,1977,NBA,False,Phoenix Suns
+Marvin Barnes,barnema01,All Stars,1976,ABA,False,San Diego Clippers
+Ron Boone,boonero01,All Stars,1976,ABA,False,Utah Jazz
+Don Buse,busedo01,All Stars,1976,ABA,False,Kansas City Kings
+Julius Erving,ervinju01,All Stars,1976,ABA,False,Philadelphia 76ers
+George Gervin,gervige01,All Stars,1976,ABA,False,Chicago Bulls
+Artis Gilmore,gilmoar01,All Stars,1976,ABA,False,
+Larry Kenon,kenonla01,All Stars,1976,ABA,False,
+Billy Knight,knighbi01,All Stars,1976,ABA,False,
+Maurice Lucas,lucasma01,All Stars,1976,ABA,False,Portland Trail Blazers
+Billy Paultz,paultbi01,All Stars,1976,ABA,False,Utah Jazz
+James Silas,silasja01,All Stars,1976,ABA,False,Cleveland Cavaliers
+Brian Taylor,taylobr01,All Stars,1976,ABA,False,San Diego Clippers
+Byron Beck,beckby01,Denver,1976,ABA,False,Denver Nuggets
+Roger Brown,brownro02,Denver,1976,ABA,False,Chicago Bulls
+Jimmy Foster,fosteja01,Denver,1976,ABA,False,Denver Nuggets
+Gus Gerard,gerargu01,Denver,1976,ABA,False,
+Dan Issel,isselda01,Denver,1976,ABA,False,Denver Nuggets
+Bobby Jones,jonesbo01,Denver,1976,ABA,False,Philadelphia 76ers
+Ralph Simpson,simpsra01,Denver,1976,ABA,False,New Jersey Nets
+Claude Terry,terrycl01,Denver,1976,ABA,False,Atlanta Hawks
+David Thompson,thompda01,Denver,1976,ABA,False,Seattle SuperSonics
+Monte Towe,towemo01,Denver,1976,ABA,False,Denver Nuggets
+Chuck Williams,willich02,Denver,1976,ABA,False,Buffalo Braves
+Dave Bing,bingda01,East,1976,NBA,False,Boston Celtics
+Doug Collins,collido01,East,1976,NBA,False,Philadelphia 76ers
+Dave Cowens,cowenda01,East,1976,NBA,False,Milwaukee Bucks
+John Drew,drewjo01,East,1976,NBA,False,Utah Jazz
+Walt Frazier,fraziwa01,East,1976,NBA,False,Cleveland Cavaliers
+John Havlicek,havlijo01,East,1976,NBA,False,Boston Celtics
+Elvin Hayes,hayesel01,East,1976,NBA,False,Houston Rockets
+Bob McAdoo,mcadobo01,East,1976,NBA,False,Philadelphia 76ers
+George McGinnis,mcginge01,East,1976,NBA,False,Indiana Pacers
+Randy Smith,smithra01,East,1976,NBA,False,
+Rudy Tomjanovich,tomjaru01,East,1976,NBA,False,Houston Rockets
+Jo Jo White,whitejo01,East,1976,NBA,False,Kansas City Kings
+Kareem Abdul-Jabbar,abdulka01,West,1976,NBA,False,Los Angeles Lakers
+Alvan Adams,adamsal01,West,1976,NBA,False,Phoenix Suns
+Tiny Archibald,architi01,West,1976,NBA,False,Milwaukee Bucks
+Rick Barry,barryri01,West,1976,NBA,False,Houston Rockets
+Fred Brown,brownfr01,West,1976,NBA,False,Seattle SuperSonics
+Bob Dandridge,dandrbo01,West,1976,NBA,False,Milwaukee Bucks
+Curtis Rowe,rowecu01,West,1976,NBA,False,Boston Celtics
+Phil Smith,smithph01,West,1976,NBA,False,Seattle SuperSonics
+Norm Van Lier,vanlino01,West,1976,NBA,False,Milwaukee Bucks
+Scott Wedman,wedmasc01,West,1976,NBA,False,Boston Celtics
+Jamaal Wilkes,wilkeja01,West,1976,NBA,False,Los Angeles Clippers
+Brian Winters,wintebr01,West,1976,NBA,False,Milwaukee Bucks
+Marvin Barnes,barnema01,East,1975,ABA,False,San Diego Clippers
+Louie Dampier,dampilo01,East,1975,ABA,False,San Antonio Spurs
+Julius Erving,ervinju01,East,1975,ABA,False,Philadelphia 76ers
+Artis Gilmore,gilmoar01,East,1975,ABA,False,
+Dan Issel,isselda01,East,1975,ABA,False,Denver Nuggets
+Stew Johnson,johnsst01,East,1975,ABA,False,
+Larry Kenon,kenonla01,East,1975,ABA,False,
+Freddie Lewis,lewisfr02,East,1975,ABA,False,Indiana Pacers
+Billy Paultz,paultbi01,East,1975,ABA,False,Utah Jazz
+Brian Taylor,taylobr01,East,1975,ABA,False,San Diego Clippers
+Dave Twardzik,twardda01,East,1975,ABA,False,Portland Trail Blazers
+Ron Boone,boonero01,West,1975,ABA,False,Utah Jazz
+Mack Calvin,calvima01,West,1975,ABA,False,Cleveland Cavaliers
+George Gervin,gervige01,West,1975,ABA,False,Chicago Bulls
+Mike Green,greenmi01,West,1975,ABA,False,Kansas City Kings
+Caldwell Jones,jonesca01,West,1975,ABA,False,San Antonio Spurs
+Moses Malone,malonmo01,West,1975,ABA,False,San Antonio Spurs
+George McGinnis,mcginge01,West,1975,ABA,False,Indiana Pacers
+Swen Nater,natersw01,West,1975,ABA,False,Los Angeles Lakers
+James Silas,silasja01,West,1975,ABA,False,Cleveland Cavaliers
+Ralph Simpson,simpsra01,West,1975,ABA,False,New Jersey Nets
+Phil Chenier,cheniph01,East,1975,NBA,False,Golden State Warriors
+Dave Cowens,cowenda01,East,1975,NBA,False,Milwaukee Bucks
+Walt Frazier,fraziwa01,East,1975,NBA,False,Cleveland Cavaliers
+John Havlicek,havlijo01,East,1975,NBA,False,Boston Celtics
+Elvin Hayes,hayesel01,East,1975,NBA,False,Houston Rockets
+Bob McAdoo,mcadobo01,East,1975,NBA,False,Philadelphia 76ers
+Steve Mix,mixst01,East,1975,NBA,False,
+Earl Monroe,monroea01,East,1975,NBA,False,New York Knicks
+Paul Silas,silaspa01,East,1975,NBA,False,Seattle SuperSonics
+Rudy Tomjanovich,tomjaru01,East,1975,NBA,False,Houston Rockets
+Wes Unseld,unselwe01,East,1975,NBA,False,Washington Bullets
+Jo Jo White,whitejo01,East,1975,NBA,False,Kansas City Kings
+Kareem Abdul-Jabbar,abdulka01,West,1975,NBA,False,Los Angeles Lakers
+Tiny Archibald,architi01,West,1975,NBA,False,Milwaukee Bucks
+Rick Barry,barryri01,West,1975,NBA,False,Houston Rockets
+Dave Bing,bingda01,West,1975,NBA,False,Boston Celtics
+Bob Dandridge,dandrbo01,West,1975,NBA,False,Milwaukee Bucks
+Gail Goodrich,goodrga01,West,1975,NBA,False,New Orleans Jazz
+Spencer Haywood,haywosp01,West,1975,NBA,False,Washington Bullets
+Sam Lacey,laceysa01,West,1975,NBA,False,Cleveland Cavaliers
+Bob Lanier,laniebo01,West,1975,NBA,False,Milwaukee Bucks
+Jim Price,priceji01,West,1975,NBA,False,Los Angeles Lakers
+Charlie Scott,scottch01,West,1975,NBA,False,Denver Nuggets
+Sidney Wicks,wickssi01,West,1975,NBA,False,San Diego Clippers
+Mack Calvin,calvima01,East,1974,ABA,False,Cleveland Cavaliers
+Louie Dampier,dampilo01,East,1974,ABA,False,San Antonio Spurs
+Jim Eakins,eakinji01,East,1974,ABA,False,
+Julius Erving,ervinju01,East,1974,ABA,False,Philadelphia 76ers
+George Gervin,gervige01,East,1974,ABA,False,Chicago Bulls
+Artis Gilmore,gilmoar01,East,1974,ABA,False,
+Dan Issel,isselda01,East,1974,ABA,False,Denver Nuggets
+Larry Kenon,kenonla01,East,1974,ABA,False,
+Ted McClain,mcclate01,East,1974,ABA,False,Phoenix Suns
+Billy Paultz,paultbi01,East,1974,ABA,True,Utah Jazz
+George Thompson,thompge01,East,1974,ABA,False,Milwaukee Bucks
+Ron Boone,boonero01,West,1974,ABA,False,Utah Jazz
+Mel Daniels,danieme01,West,1974,ABA,False,New York Nets
+Warren Jabali,jabalwa01,West,1974,ABA,False,San Diego Conquistadors
+Stew Johnson,johnsst01,West,1974,ABA,False,
+Jimmy Jones,jonesji01,West,1974,ABA,False,Washington Bullets
+Rich Jones,jonesri01,West,1974,ABA,False,New York Nets
+George McGinnis,mcginge01,West,1974,ABA,False,Indiana Pacers
+Swen Nater,natersw01,West,1974,ABA,False,Los Angeles Lakers
+Ralph Simpson,simpsra01,West,1974,ABA,False,New Jersey Nets
+Willie Wise,wisewi01,West,1974,ABA,False,Seattle SuperSonics
+Austin Carr,carrau01,East,1974,NBA,False,
+Phil Chenier,cheniph01,East,1974,NBA,False,Golden State Warriors
+Dave Cowens,cowenda01,East,1974,NBA,False,Milwaukee Bucks
+Dave DeBusschere,debusda01,East,1974,NBA,False,New York Knicks
+Walt Frazier,fraziwa01,East,1974,NBA,False,Cleveland Cavaliers
+John Havlicek,havlijo01,East,1974,NBA,False,Boston Celtics
+Elvin Hayes,hayesel01,East,1974,NBA,False,Houston Rockets
+Lou Hudson,hudsolo01,East,1974,NBA,False,Los Angeles Lakers
+Pete Maravich,maravpe01,East,1974,NBA,False,
+Bob McAdoo,mcadobo01,East,1974,NBA,False,Philadelphia 76ers
+Rudy Tomjanovich,tomjaru01,East,1974,NBA,False,Houston Rockets
+Jo Jo White,whitejo01,East,1974,NBA,False,Kansas City Kings
+Kareem Abdul-Jabbar,abdulka01,West,1974,NBA,False,Los Angeles Lakers
+Rick Barry,barryri01,West,1974,NBA,False,Houston Rockets
+Dave Bing,bingda01,West,1974,NBA,False,Boston Celtics
+Gail Goodrich,goodrga01,West,1974,NBA,False,New Orleans Jazz
+Spencer Haywood,haywosp01,West,1974,NBA,False,Washington Bullets
+Bob Lanier,laniebo01,West,1974,NBA,False,Milwaukee Bucks
+Geoff Petrie,petrige01,West,1974,NBA,False,Portland Trail Blazers
+Charlie Scott,scottch01,West,1974,NBA,True,Denver Nuggets
+Nate Thurmond,thurmna01,West,1974,NBA,False,Cleveland Cavaliers
+Norm Van Lier,vanlino01,West,1974,NBA,False,Milwaukee Bucks
+Chet Walker,walkech01,West,1974,NBA,False,Chicago Bulls
+Jerry West,westje01,West,1974,NBA,True,Los Angeles Lakers
+Sidney Wicks,wickssi01,West,1974,NBA,False,San Diego Clippers
+Joe Caldwell,caldwjo01,East,1973,ABA,False,Spirits of St. Louis
+Mack Calvin,calvima01,East,1973,ABA,False,Cleveland Cavaliers
+Billy Cunningham,cunnibi01,East,1973,ABA,False,Philadelphia 76ers
+Louie Dampier,dampilo01,East,1973,ABA,False,San Antonio Spurs
+Julius Erving,ervinju01,East,1973,ABA,False,Philadelphia 76ers
+Artis Gilmore,gilmoar01,East,1973,ABA,False,
+Dan Issel,isselda01,East,1973,ABA,False,Denver Nuggets
+Bill Melchionni,melchbi01,East,1973,ABA,False,New York Nets
+Billy Paultz,paultbi01,East,1973,ABA,False,Utah Jazz
+George Thompson,thompge01,East,1973,ABA,False,Milwaukee Bucks
+Zelmo Beaty,beatyze01,West,1973,ABA,False,Los Angeles Lakers
+Mel Daniels,danieme01,West,1973,ABA,False,New York Nets
+Warren Jabali,jabalwa01,West,1973,ABA,False,San Diego Conquistadors
+Stew Johnson,johnsst01,West,1973,ABA,False,
+Jimmy Jones,jonesji01,West,1973,ABA,False,Washington Bullets
+Rich Jones,jonesri01,West,1973,ABA,False,New York Nets
+George McGinnis,mcginge01,West,1973,ABA,False,Indiana Pacers
+Ralph Simpson,simpsra01,West,1973,ABA,False,New Jersey Nets
+Chuck Williams,willich02,West,1973,ABA,False,Buffalo Braves
+Willie Wise,wisewi01,West,1973,ABA,False,Seattle SuperSonics
+John Block,blockjo01,East,1973,NBA,False,Chicago Bulls
+Bill Bradley,bradlbi01,East,1973,NBA,False,New York Knicks
+Dave Cowens,cowenda01,East,1973,NBA,False,Milwaukee Bucks
+Dave DeBusschere,debusda01,East,1973,NBA,False,New York Knicks
+Walt Frazier,fraziwa01,East,1973,NBA,False,Cleveland Cavaliers
+John Havlicek,havlijo01,East,1973,NBA,False,Boston Celtics
+Elvin Hayes,hayesel01,East,1973,NBA,False,Houston Rockets
+Lou Hudson,hudsolo01,East,1973,NBA,False,Los Angeles Lakers
+Bob Kauffman,kauffbo01,East,1973,NBA,False,Atlanta Hawks
+Pete Maravich,maravpe01,East,1973,NBA,False,
+Jack Marin,marinja01,East,1973,NBA,False,Chicago Bulls
+Wes Unseld,unselwe01,East,1973,NBA,False,Washington Bullets
+Jo Jo White,whitejo01,East,1973,NBA,False,Kansas City Kings
+Lenny Wilkens,wilkele01,East,1973,NBA,False,Portland Trail Blazers
+Kareem Abdul-Jabbar,abdulka01,West,1973,NBA,True,Los Angeles Lakers
+Tiny Archibald,architi01,West,1973,NBA,False,Milwaukee Bucks
+Rick Barry,barryri01,West,1973,NBA,True,Houston Rockets
+Dave Bing,bingda01,West,1973,NBA,False,Boston Celtics
+Wilt Chamberlain,chambwi01,West,1973,NBA,False,Los Angeles Lakers
+Bob Dandridge,dandrbo01,West,1973,NBA,False,Milwaukee Bucks
+Gail Goodrich,goodrga01,West,1973,NBA,False,New Orleans Jazz
+Connie Hawkins,hawkico01,West,1973,NBA,True,Atlanta Hawks
+Spencer Haywood,haywosp01,West,1973,NBA,False,Washington Bullets
+Bob Lanier,laniebo01,West,1973,NBA,False,Milwaukee Bucks
+Bob Love,lovebo01,West,1973,NBA,True,
+Charlie Scott,scottch01,West,1973,NBA,False,Denver Nuggets
+Nate Thurmond,thurmna01,West,1973,NBA,False,Cleveland Cavaliers
+Chet Walker,walkech01,West,1973,NBA,False,Chicago Bulls
+Jerry West,westje01,West,1973,NBA,False,Los Angeles Lakers
+Sidney Wicks,wickssi01,West,1973,NBA,False,San Diego Clippers
+Rick Barry,barryri01,East,1972,ABA,False,Houston Rockets
+John Brisker,briskjo01,East,1972,ABA,False,Seattle SuperSonics
+Mack Calvin,calvima01,East,1972,ABA,False,Cleveland Cavaliers
+Louie Dampier,dampilo01,East,1972,ABA,False,San Antonio Spurs
+Julius Erving,ervinju01,East,1972,ABA,False,Philadelphia 76ers
+Artis Gilmore,gilmoar01,East,1972,ABA,False,
+Dan Issel,isselda01,East,1972,ABA,False,Denver Nuggets
+Warren Jabali,jabalwa01,East,1972,ABA,False,San Diego Conquistadors
+Jim McDaniels,mcdanji01,East,1972,ABA,False,Buffalo Braves
+Bill Melchionni,melchbi01,East,1972,ABA,False,New York Nets
+Charlie Scott,scottch01,East,1972,ABA,False,Denver Nuggets
+George Thompson,thompge01,East,1972,ABA,False,Milwaukee Bucks
+Zelmo Beaty,beatyze01,West,1972,ABA,False,Los Angeles Lakers
+Art Becker,beckear01,West,1972,ABA,False,
+Roger Brown,brownro01,West,1972,ABA,False,
+Glen Combs,combsgl01,West,1972,ABA,False,Virginia Squires
+Mel Daniels,danieme01,West,1972,ABA,False,New York Nets
+Donnie Freeman,freemdo01,West,1972,ABA,False,Los Angeles Lakers
+Steve Jones,jonesst01,West,1972,ABA,False,Portland Trail Blazers
+Wil Jones,joneswi02,West,1972,ABA,False,Buffalo Braves
+Wendell Ladner,ladnewe01,West,1972,ABA,False,New York Nets
+Freddie Lewis,lewisfr02,West,1972,ABA,False,Indiana Pacers
+Ralph Simpson,simpsra01,West,1972,ABA,False,New Jersey Nets
+Willie Wise,wisewi01,West,1972,ABA,False,Seattle SuperSonics
+Butch Beard,beardbu01,East,1972,NBA,False,New York Knicks
+Archie Clark,clarkar01,East,1972,NBA,False,Detroit Pistons
+Dave Cowens,cowenda01,East,1972,NBA,False,Milwaukee Bucks
+Billy Cunningham,cunnibi01,East,1972,NBA,False,Philadelphia 76ers
+Dave DeBusschere,debusda01,East,1972,NBA,False,New York Knicks
+Walt Frazier,fraziwa01,East,1972,NBA,False,Cleveland Cavaliers
+John Havlicek,havlijo01,East,1972,NBA,False,Boston Celtics
+Lou Hudson,hudsolo01,East,1972,NBA,False,Los Angeles Lakers
+John Johnson,johnsjo01,East,1972,NBA,False,Seattle SuperSonics
+Bob Kauffman,kauffbo01,East,1972,NBA,False,Atlanta Hawks
+Jack Marin,marinja01,East,1972,NBA,False,Chicago Bulls
+Wes Unseld,unselwe01,East,1972,NBA,False,Washington Bullets
+Tom Van Arsdale,vanarto01,East,1972,NBA,False,Phoenix Suns
+Jo Jo White,whitejo01,East,1972,NBA,False,Kansas City Kings
+Kareem Abdul-Jabbar,abdulka01,West,1972,NBA,False,Los Angeles Lakers
+Wilt Chamberlain,chambwi01,West,1972,NBA,False,Los Angeles Lakers
+Gail Goodrich,goodrga01,West,1972,NBA,False,New Orleans Jazz
+Connie Hawkins,hawkico01,West,1972,NBA,False,Atlanta Hawks
+Elvin Hayes,hayesel01,West,1972,NBA,False,Houston Rockets
+Spencer Haywood,haywosp01,West,1972,NBA,False,Washington Bullets
+Bob Lanier,laniebo01,West,1972,NBA,False,Milwaukee Bucks
+Bob Love,lovebo01,West,1972,NBA,False,
+Oscar Robertson,roberos01,West,1972,NBA,False,Milwaukee Bucks
+Cazzie Russell,russeca01,West,1972,NBA,False,Chicago Bulls
+Paul Silas,silaspa01,West,1972,NBA,False,Seattle SuperSonics
+Jimmy Walker,walkeji01,West,1972,NBA,False,Kansas City Kings
+Jerry West,westje01,West,1972,NBA,False,Los Angeles Lakers
+Sidney Wicks,wickssi01,West,1972,NBA,False,San Diego Clippers
+Rick Barry,barryri01,East,1971,ABA,False,Houston Rockets
+John Brisker,briskjo01,East,1971,ABA,False,Seattle SuperSonics
+Joe Caldwell,caldwjo01,East,1971,ABA,False,Spirits of St. Louis
+Mack Calvin,calvima01,East,1971,ABA,False,Cleveland Cavaliers
+George Carter,cartege01,East,1971,ABA,False,Utah Stars
+Dan Issel,isselda01,East,1971,ABA,False,Denver Nuggets
+Neil Johnson,johnsne02,East,1971,ABA,False,Virginia Squires
+Larry Jones,jonesla01,East,1971,ABA,False,Philadelphia 76ers
+Mike Lewis,lewismi01,East,1971,ABA,False,Carolina Cougars
+Bill Melchionni,melchbi01,East,1971,ABA,False,New York Nets
+Cincy Powell,powelci01,East,1971,ABA,False,Virginia Squires
+Charlie Scott,scottch01,East,1971,ABA,False,Denver Nuggets
+Zelmo Beaty,beatyze01,West,1971,ABA,False,Los Angeles Lakers
+Ron Boone,boonero01,West,1971,ABA,False,Utah Jazz
+Roger Brown,brownro01,West,1971,ABA,False,
+Glen Combs,combsgl01,West,1971,ABA,False,Virginia Squires
+Mel Daniels,danieme01,West,1971,ABA,False,New York Nets
+Donnie Freeman,freemdo01,West,1971,ABA,False,Los Angeles Lakers
+Jimmy Jones,jonesji01,West,1971,ABA,False,Washington Bullets
+Steve Jones,jonesst01,West,1971,ABA,False,Portland Trail Blazers
+Julius Keye,keyeju01,West,1971,ABA,False,Memphis Sounds
+Wendell Ladner,ladnewe01,West,1971,ABA,False,New York Nets
+Bob Netolicky,netolbo01,West,1971,ABA,False,Indiana Pacers
+Red Robbins,robbire01,West,1971,ABA,False,
+Billy Cunningham,cunnibi01,East,1971,NBA,False,Philadelphia 76ers
+Dave DeBusschere,debusda01,East,1971,NBA,False,New York Knicks
+Walt Frazier,fraziwa01,East,1971,NBA,False,Cleveland Cavaliers
+Johnny Green,greenjo01,East,1971,NBA,False,Kansas City-Omaha Kings
+John Havlicek,havlijo01,East,1971,NBA,False,Boston Celtics
+Lou Hudson,hudsolo01,East,1971,NBA,False,Los Angeles Lakers
+Gus Johnson,johnsgu01,East,1971,NBA,False,Phoenix Suns
+John Johnson,johnsjo01,East,1971,NBA,False,Seattle SuperSonics
+Bob Kauffman,kauffbo01,East,1971,NBA,False,Atlanta Hawks
+Earl Monroe,monroea01,East,1971,NBA,False,New York Knicks
+Willis Reed,reedwi01,East,1971,NBA,False,New York Knicks
+Wes Unseld,unselwe01,East,1971,NBA,False,Washington Bullets
+Tom Van Arsdale,vanarto01,East,1971,NBA,False,Phoenix Suns
+Jo Jo White,whitejo01,East,1971,NBA,False,Kansas City Kings
+Kareem Abdul-Jabbar,abdulka01,West,1971,NBA,False,Los Angeles Lakers
+Dave Bing,bingda01,West,1971,NBA,False,Boston Celtics
+Wilt Chamberlain,chambwi01,West,1971,NBA,False,Los Angeles Lakers
+Connie Hawkins,hawkico01,West,1971,NBA,False,Atlanta Hawks
+Elvin Hayes,hayesel01,West,1971,NBA,False,Houston Rockets
+Bob Love,lovebo01,West,1971,NBA,False,
+Jerry Lucas,lucasje01,West,1971,NBA,False,New York Knicks
+Jeff Mullins,mullije01,West,1971,NBA,False,Golden State Warriors
+Geoff Petrie,petrige01,West,1971,NBA,False,Portland Trail Blazers
+Oscar Robertson,roberos01,West,1971,NBA,False,Milwaukee Bucks
+Dick Van Arsdale,vanardi01,West,1971,NBA,False,Phoenix Suns
+Chet Walker,walkech01,West,1971,NBA,False,Chicago Bulls
+Jerry West,westje01,West,1971,NBA,False,Los Angeles Lakers
+Lenny Wilkens,wilkele01,West,1971,NBA,False,Portland Trail Blazers
+Roger Brown,brownro01,East,1970,ABA,False,
+Darel Carrier,carrida01,East,1970,ABA,False,Memphis Tams
+Louie Dampier,dampilo01,East,1970,ABA,False,San Antonio Spurs
+Mel Daniels,danieme01,East,1970,ABA,False,New York Nets
+Donnie Freeman,freemdo01,East,1970,ABA,False,Los Angeles Lakers
+Mike Lewis,lewismi01,East,1970,ABA,False,Carolina Cougars
+Doug Moe,moedo01,East,1970,ABA,False,Virginia Squires
+Gene Moore,moorege01,East,1970,ABA,False,Spirits of St. Louis
+Bob Netolicky,netolbo01,East,1970,ABA,False,Indiana Pacers
+Levern Tart,tartle01,East,1970,ABA,False,
+Bob Verga,vergabo01,East,1970,ABA,False,Portland Trail Blazers
+Charlie Williams,willich01,East,1970,ABA,False,
+Rick Barry,barryri01,West,1970,ABA,False,Houston Rockets
+John Beasley,beasljo01,West,1970,ABA,False,Utah Stars
+Larry Brown,brownla01,West,1970,ABA,False,Denver Rockets
+Glen Combs,combsgl01,West,1970,ABA,False,Virginia Squires
+Warren Davis,daviswa02,West,1970,ABA,False,Memphis Tams
+Gerald Govan,govange01,West,1970,ABA,True,Virginia Squires
+Spencer Haywood,haywosp01,West,1970,ABA,False,Washington Bullets
+Warren Jabali,jabalwa01,West,1970,ABA,False,San Diego Conquistadors
+Jimmy Jones,jonesji01,West,1970,ABA,False,Washington Bullets
+Larry Jones,jonesla01,West,1970,ABA,False,Philadelphia 76ers
+Steve Jones,jonesst01,West,1970,ABA,False,Portland Trail Blazers
+Cincy Powell,powelci01,West,1970,ABA,False,Virginia Squires
+Red Robbins,robbire01,West,1970,ABA,True,
+Kareem Abdul-Jabbar,abdulka01,East,1970,NBA,False,Los Angeles Lakers
+Billy Cunningham,cunnibi01,East,1970,NBA,False,Philadelphia 76ers
+Dave DeBusschere,debusda01,East,1970,NBA,False,New York Knicks
+Walt Frazier,fraziwa01,East,1970,NBA,False,Cleveland Cavaliers
+Hal Greer,greerha01,East,1970,NBA,False,Philadelphia 76ers
+John Havlicek,havlijo01,East,1970,NBA,False,Boston Celtics
+Gus Johnson,johnsgu01,East,1970,NBA,False,Phoenix Suns
+Willis Reed,reedwi01,East,1970,NBA,False,New York Knicks
+Oscar Robertson,roberos01,East,1970,NBA,False,Milwaukee Bucks
+Flynn Robinson,robinfl01,East,1970,NBA,False,San Diego Conquistadors
+Tom Van Arsdale,vanarto01,East,1970,NBA,False,Phoenix Suns
+Jimmy Walker,walkeji01,East,1970,NBA,False,Kansas City Kings
+Elgin Baylor,bayloel01,West,1970,NBA,False,Los Angeles Lakers
+Bill Bridges,bridgbi01,West,1970,NBA,False,
+Joe Caldwell,caldwjo01,West,1970,NBA,False,Spirits of St. Louis
+Connie Hawkins,hawkico01,West,1970,NBA,False,Atlanta Hawks
+Elvin Hayes,hayesel01,West,1970,NBA,False,Houston Rockets
+Lou Hudson,hudsolo01,West,1970,NBA,False,Los Angeles Lakers
+Jeff Mullins,mullije01,West,1970,NBA,False,Golden State Warriors
+Bob Rule,rulebo01,West,1970,NBA,True,Milwaukee Bucks
+Nate Thurmond,thurmna01,West,1970,NBA,True,Cleveland Cavaliers
+Dick Van Arsdale,vanardi01,West,1970,NBA,False,Phoenix Suns
+Chet Walker,walkech01,West,1970,NBA,False,Chicago Bulls
+Jerry West,westje01,West,1970,NBA,False,Los Angeles Lakers
+Lenny Wilkens,wilkele01,West,1970,NBA,False,Portland Trail Blazers
+Darel Carrier,carrida01,East,1969,ABA,False,Memphis Tams
+Louie Dampier,dampilo01,East,1969,ABA,False,San Antonio Spurs
+Mel Daniels,danieme01,East,1969,ABA,False,New York Nets
+Donnie Freeman,freemdo01,East,1969,ABA,False,Los Angeles Lakers
+Connie Hawkins,hawkico01,East,1969,ABA,True,Atlanta Hawks
+Art Heyman,heymaar01,East,1969,ABA,True,
+Les Hunter,huntele01,East,1969,ABA,False,Memphis Tams
+Goose Ligon,ligongo01,East,1969,ABA,False,Virginia Squires
+Bob Netolicky,netolbo01,East,1969,ABA,False,Indiana Pacers
+Walt Simon,simonwa01,East,1969,ABA,False,Kentucky Colonels
+Skip Thoren,thoresk01,East,1969,ABA,False,Miami Floridians
+Trooper Washington,washitr01,East,1969,ABA,False,New York Nets
+Charlie Williams,willich01,East,1969,ABA,False,
+Rick Barry,barryri01,West,1969,ABA,False,Houston Rockets
+John Beasley,beasljo01,West,1969,ABA,False,Utah Stars
+Byron Beck,beckby01,West,1969,ABA,False,Denver Nuggets
+Larry Brown,brownla01,West,1969,ABA,False,Denver Rockets
+Warren Davis,daviswa02,West,1969,ABA,False,Memphis Tams
+Wayne Hightower,hightwa01,West,1969,ABA,False,Carolina Cougars
+Merv Jackson,jacksme01,West,1969,ABA,False,Memphis Tams
+Jimmy Jones,jonesji01,West,1969,ABA,False,Washington Bullets
+Larry Jones,jonesla01,West,1969,ABA,False,Philadelphia 76ers
+Doug Moe,moedo01,West,1969,ABA,False,Virginia Squires
+Red Robbins,robbire01,West,1969,ABA,False,
+Willie Somerset,somerwi01,West,1969,ABA,False,
+Dave Bing,bingda01,East,1969,NBA,False,Boston Celtics
+Billy Cunningham,cunnibi01,East,1969,NBA,False,Philadelphia 76ers
+Hal Greer,greerha01,East,1969,NBA,False,Philadelphia 76ers
+John Havlicek,havlijo01,East,1969,NBA,False,Boston Celtics
+Gus Johnson,johnsgu01,East,1969,NBA,False,Phoenix Suns
+Jerry Lucas,lucasje01,East,1969,NBA,False,New York Knicks
+Jon McGlocklin,mcglojo01,East,1969,NBA,False,Milwaukee Bucks
+Earl Monroe,monroea01,East,1969,NBA,False,New York Knicks
+Willis Reed,reedwi01,East,1969,NBA,False,New York Knicks
+Oscar Robertson,roberos01,East,1969,NBA,False,Milwaukee Bucks
+Bill Russell,russebi01,East,1969,NBA,False,Boston Celtics
+Wes Unseld,unselwe01,East,1969,NBA,False,Washington Bullets
+Elgin Baylor,bayloel01,West,1969,NBA,False,Los Angeles Lakers
+Joe Caldwell,caldwjo01,West,1969,NBA,False,Spirits of St. Louis
+Wilt Chamberlain,chambwi01,West,1969,NBA,False,Los Angeles Lakers
+Gail Goodrich,goodrga01,West,1969,NBA,True,New Orleans Jazz
+Elvin Hayes,hayesel01,West,1969,NBA,False,Houston Rockets
+Lou Hudson,hudsolo01,West,1969,NBA,False,Los Angeles Lakers
+Don Kojis,kojisdo01,West,1969,NBA,False,Kansas City-Omaha Kings
+Rudy LaRusso,larusru01,West,1969,NBA,False,San Francisco Warriors
+Jeff Mullins,mullije01,West,1969,NBA,False,Golden State Warriors
+Jerry Sloan,sloanje01,West,1969,NBA,False,Chicago Bulls
+Dick Van Arsdale,vanardi01,West,1969,NBA,False,Phoenix Suns
+Jerry West,westje01,West,1969,NBA,True,Los Angeles Lakers
+Lenny Wilkens,wilkele01,West,1969,NBA,False,Portland Trail Blazers
+Roger Brown,brownro01,East,1968,ABA,False,
+Darel Carrier,carrida01,East,1968,ABA,False,Memphis Tams
+Louie Dampier,dampilo01,East,1968,ABA,False,San Antonio Spurs
+Mel Daniels,danieme01,East,1968,ABA,False,New York Nets
+Donnie Freeman,freemdo01,East,1968,ABA,False,Los Angeles Lakers
+Connie Hawkins,hawkico01,East,1968,ABA,False,Atlanta Hawks
+Les Hunter,huntele01,East,1968,ABA,False,Memphis Tams
+Tony Jackson,jacksto01,East,1968,ABA,False,
+Freddie Lewis,lewisfr02,East,1968,ABA,False,Indiana Pacers
+Randy Mahaffey,mahafra01,East,1968,ABA,False,Carolina Cougars
+Bob Netolicky,netolbo01,East,1968,ABA,False,Indiana Pacers
+Chico Vaughn,vaughch01,East,1968,ABA,False,Pittsburgh Pipers
+John Beasley,beasljo01,West,1968,ABA,False,Utah Stars
+Art Becker,beckear01,West,1968,ABA,False,
+Larry Brown,brownla01,West,1968,ABA,False,Denver Rockets
+Larry Bunce,buncela01,West,1968,ABA,False,
+Cliff Hagan,hagancl01,West,1968,ABA,False,Dallas Chaparrals
+Jimmy Jones,jonesji01,West,1968,ABA,False,Washington Bullets
+Larry Jones,jonesla01,West,1968,ABA,False,Philadelphia 76ers
+Dewitt Menyard,menyade01,West,1968,ABA,False,Houston Mavericks
+Doug Moe,moedo01,West,1968,ABA,False,Virginia Squires
+Red Robbins,robbire01,West,1968,ABA,False,
+Levern Tart,tartle01,West,1968,ABA,False,
+Bob Verga,vergabo01,West,1968,ABA,True,Portland Trail Blazers
+Ben Warley,warlebe01,West,1968,ABA,False,Denver Rockets
+Dick Barnett,barnedi01,East,1968,NBA,False,New York Knicks
+Dave Bing,bingda01,East,1968,NBA,False,Boston Celtics
+Wilt Chamberlain,chambwi01,East,1968,NBA,False,Los Angeles Lakers
+Dave DeBusschere,debusda01,East,1968,NBA,False,New York Knicks
+Hal Greer,greerha01,East,1968,NBA,False,Philadelphia 76ers
+John Havlicek,havlijo01,East,1968,NBA,False,Boston Celtics
+Gus Johnson,johnsgu01,East,1968,NBA,False,Phoenix Suns
+Sam Jones,jonessa01,East,1968,NBA,False,Boston Celtics
+Jerry Lucas,lucasje01,East,1968,NBA,False,New York Knicks
+Willis Reed,reedwi01,East,1968,NBA,False,New York Knicks
+Oscar Robertson,roberos01,East,1968,NBA,False,Milwaukee Bucks
+Bill Russell,russebi01,East,1968,NBA,False,Boston Celtics
+Walt Hazzard,abdulma01,West,1968,NBA,False,Seattle SuperSonics
+Elgin Baylor,bayloel01,West,1968,NBA,False,Los Angeles Lakers
+Zelmo Beaty,beatyze01,West,1968,NBA,False,Los Angeles Lakers
+Bob Boozer,boozebo01,West,1968,NBA,False,Milwaukee Bucks
+Bill Bridges,bridgbi01,West,1968,NBA,False,
+Archie Clark,clarkar01,West,1968,NBA,False,Detroit Pistons
+Jim King,kingji01,West,1968,NBA,False,Chicago Bulls
+Don Kojis,kojisdo01,West,1968,NBA,False,Kansas City-Omaha Kings
+Rudy LaRusso,larusru01,West,1968,NBA,False,San Francisco Warriors
+Clyde Lee,leecl01,West,1968,NBA,True,Philadelphia 76ers
+Nate Thurmond,thurmna01,West,1968,NBA,True,Cleveland Cavaliers
+Jerry West,westje01,West,1968,NBA,False,Los Angeles Lakers
+Lenny Wilkens,wilkele01,West,1968,NBA,False,Portland Trail Blazers
+Wilt Chamberlain,chambwi01,East,1967,NBA,False,Los Angeles Lakers
+Hal Greer,greerha01,East,1967,NBA,False,Philadelphia 76ers
+John Havlicek,havlijo01,East,1967,NBA,False,Boston Celtics
+Bailey Howell,howelba01,East,1967,NBA,False,Philadelphia 76ers
+Jerry Lucas,lucasje01,East,1967,NBA,False,New York Knicks
+Don Ohl,ohldo01,East,1967,NBA,False,Atlanta Hawks
+Willis Reed,reedwi01,East,1967,NBA,False,New York Knicks
+Oscar Robertson,roberos01,East,1967,NBA,False,Milwaukee Bucks
+Bill Russell,russebi01,East,1967,NBA,False,Boston Celtics
+Chet Walker,walkech01,East,1967,NBA,False,Chicago Bulls
+Rick Barry,barryri01,West,1967,NBA,False,Houston Rockets
+Elgin Baylor,bayloel01,West,1967,NBA,False,Los Angeles Lakers
+Bill Bridges,bridgbi01,West,1967,NBA,False,
+Dave DeBusschere,debusda01,West,1967,NBA,False,New York Knicks
+Darrall Imhoff,imhofda01,West,1967,NBA,False,
+Guy Rodgers,rodgegu01,West,1967,NBA,False,Milwaukee Bucks
+Jerry Sloan,sloanje01,West,1967,NBA,False,Chicago Bulls
+Nate Thurmond,thurmna01,West,1967,NBA,False,Cleveland Cavaliers
+Jerry West,westje01,West,1967,NBA,False,Los Angeles Lakers
+Lenny Wilkens,wilkele01,West,1967,NBA,False,Portland Trail Blazers
+Wilt Chamberlain,chambwi01,East,1966,NBA,False,Los Angeles Lakers
+Hal Greer,greerha01,East,1966,NBA,False,Philadelphia 76ers
+John Havlicek,havlijo01,East,1966,NBA,False,Boston Celtics
+Sam Jones,jonessa01,East,1966,NBA,False,Boston Celtics
+Jerry Lucas,lucasje01,East,1966,NBA,False,New York Knicks
+Willis Reed,reedwi01,East,1966,NBA,False,New York Knicks
+Oscar Robertson,roberos01,East,1966,NBA,False,Milwaukee Bucks
+Bill Russell,russebi01,East,1966,NBA,False,Boston Celtics
+Adrian Smith,smithad01,East,1966,NBA,False,Virginia Squires
+Chet Walker,walkech01,East,1966,NBA,False,Chicago Bulls
+Rick Barry,barryri01,West,1966,NBA,False,Houston Rockets
+Zelmo Beaty,beatyze01,West,1966,NBA,False,Los Angeles Lakers
+Dave DeBusschere,debusda01,West,1966,NBA,False,New York Knicks
+Bailey Howell,howelba01,West,1966,NBA,False,Philadelphia 76ers
+Rudy LaRusso,larusru01,West,1966,NBA,False,San Francisco Warriors
+Eddie Miles,milesed01,West,1966,NBA,False,New York Knicks
+Don Ohl,ohldo01,West,1966,NBA,False,Atlanta Hawks
+Guy Rodgers,rodgegu01,West,1966,NBA,False,Milwaukee Bucks
+Nate Thurmond,thurmna01,West,1966,NBA,False,Cleveland Cavaliers
+Jerry West,westje01,West,1966,NBA,False,Los Angeles Lakers
+Larry Costello,costela01,East,1965,NBA,False,Philadelphia 76ers
+Wayne Embry,embrywa01,East,1965,NBA,False,Milwaukee Bucks
+Johnny Green,greenjo01,East,1965,NBA,True,Kansas City-Omaha Kings
+Hal Greer,greerha01,East,1965,NBA,False,Philadelphia 76ers
+Tom Heinsohn,heinsto01,East,1965,NBA,True,Boston Celtics
+Luke Jackson,jackslu01,East,1965,NBA,False,Philadelphia 76ers
+Sam Jones,jonessa01,East,1965,NBA,False,Boston Celtics
+Jerry Lucas,lucasje01,East,1965,NBA,False,New York Knicks
+Willis Reed,reedwi01,East,1965,NBA,False,New York Knicks
+Oscar Robertson,roberos01,East,1965,NBA,False,Milwaukee Bucks
+Bill Russell,russebi01,East,1965,NBA,False,Boston Celtics
+Elgin Baylor,bayloel01,West,1965,NBA,False,Los Angeles Lakers
+Walt Bellamy,bellawa01,West,1965,NBA,False,New Orleans Jazz
+Wilt Chamberlain,chambwi01,West,1965,NBA,False,Los Angeles Lakers
+Terry Dischinger,dischte01,West,1965,NBA,False,Portland Trail Blazers
+Gus Johnson,johnsgu01,West,1965,NBA,False,Phoenix Suns
+Don Ohl,ohldo01,West,1965,NBA,False,Atlanta Hawks
+Bob Pettit,pettibo01,West,1965,NBA,False,St. Louis Hawks
+Nate Thurmond,thurmna01,West,1965,NBA,False,Cleveland Cavaliers
+Jerry West,westje01,West,1965,NBA,False,Los Angeles Lakers
+Lenny Wilkens,wilkele01,West,1965,NBA,False,Portland Trail Blazers
+Len Chappell,chapple01,East,1964,NBA,False,Dallas Chaparrals
+Wayne Embry,embrywa01,East,1964,NBA,False,Milwaukee Bucks
+Tom Gola,golato01,East,1964,NBA,False,New York Knicks
+Hal Greer,greerha01,East,1964,NBA,False,Philadelphia 76ers
+Tom Heinsohn,heinsto01,East,1964,NBA,False,Boston Celtics
+Sam Jones,jonessa01,East,1964,NBA,False,Boston Celtics
+Jerry Lucas,lucasje01,East,1964,NBA,False,New York Knicks
+Oscar Robertson,roberos01,East,1964,NBA,False,Milwaukee Bucks
+Bill Russell,russebi01,East,1964,NBA,False,Boston Celtics
+Chet Walker,walkech01,East,1964,NBA,False,Chicago Bulls
+Elgin Baylor,bayloel01,West,1964,NBA,False,Los Angeles Lakers
+Walt Bellamy,bellawa01,West,1964,NBA,False,New Orleans Jazz
+Wilt Chamberlain,chambwi01,West,1964,NBA,False,Los Angeles Lakers
+Terry Dischinger,dischte01,West,1964,NBA,False,Portland Trail Blazers
+Bailey Howell,howelba01,West,1964,NBA,False,Philadelphia 76ers
+Don Ohl,ohldo01,West,1964,NBA,False,Atlanta Hawks
+Bob Pettit,pettibo01,West,1964,NBA,False,St. Louis Hawks
+Guy Rodgers,rodgegu01,West,1964,NBA,False,Milwaukee Bucks
+Jerry West,westje01,West,1964,NBA,False,Los Angeles Lakers
+Lenny Wilkens,wilkele01,West,1964,NBA,False,Portland Trail Blazers
+Bob Cousy,cousybo01,East,1963,NBA,False,Cincinnati Royals
+Wayne Embry,embrywa01,East,1963,NBA,True,Milwaukee Bucks
+Tom Gola,golato01,East,1963,NBA,False,New York Knicks
+Johnny Green,greenjo01,East,1963,NBA,False,Kansas City-Omaha Kings
+Hal Greer,greerha01,East,1963,NBA,False,Philadelphia 76ers
+Richie Guerin,gueriri01,East,1963,NBA,False,Atlanta Hawks
+Tom Heinsohn,heinsto01,East,1963,NBA,False,Boston Celtics
+Red Kerr,kerrre01,East,1963,NBA,False,Baltimore Bullets
+Oscar Robertson,roberos01,East,1963,NBA,False,Milwaukee Bucks
+Bill Russell,russebi01,East,1963,NBA,False,Boston Celtics
+Lee Shaffer,shaffle01,East,1963,NBA,False,Philadelphia 76ers
+Jack Twyman,twymaja01,East,1963,NBA,False,Cincinnati Royals
+Elgin Baylor,bayloel01,West,1963,NBA,False,Los Angeles Lakers
+Walt Bellamy,bellawa01,West,1963,NBA,False,New Orleans Jazz
+Wilt Chamberlain,chambwi01,West,1963,NBA,False,Los Angeles Lakers
+Terry Dischinger,dischte01,West,1963,NBA,False,Portland Trail Blazers
+Bailey Howell,howelba01,West,1963,NBA,False,Philadelphia 76ers
+Rudy LaRusso,larusru01,West,1963,NBA,False,San Francisco Warriors
+Tom Meschery,meschto01,West,1963,NBA,False,Seattle SuperSonics
+Don Ohl,ohldo01,West,1963,NBA,False,Atlanta Hawks
+Bob Pettit,pettibo01,West,1963,NBA,False,St. Louis Hawks
+Guy Rodgers,rodgegu01,West,1963,NBA,False,Milwaukee Bucks
+Jerry West,westje01,West,1963,NBA,False,Los Angeles Lakers
+Lenny Wilkens,wilkele01,West,1963,NBA,False,Portland Trail Blazers
+Paul Arizin,arizipa01,East,1962,NBA,False,Philadelphia Warriors
+Wilt Chamberlain,chambwi01,East,1962,NBA,False,Los Angeles Lakers
+Larry Costello,costela01,East,1962,NBA,True,Philadelphia 76ers
+Bob Cousy,cousybo01,East,1962,NBA,False,Cincinnati Royals
+Tom Gola,golato01,East,1962,NBA,True,New York Knicks
+Johnny Green,greenjo01,East,1962,NBA,True,Kansas City-Omaha Kings
+Hal Greer,greerha01,East,1962,NBA,False,Philadelphia 76ers
+Richie Guerin,gueriri01,East,1962,NBA,False,Atlanta Hawks
+Tom Heinsohn,heinsto01,East,1962,NBA,False,Boston Celtics
+Sam Jones,jonessa01,East,1962,NBA,True,Boston Celtics
+Willie Naulls,naullwi01,East,1962,NBA,False,Boston Celtics
+Bill Russell,russebi01,East,1962,NBA,False,Boston Celtics
+Dolph Schayes,schaydo01,East,1962,NBA,False,Philadelphia 76ers
+Elgin Baylor,bayloel01,West,1962,NBA,False,Los Angeles Lakers
+Walt Bellamy,bellawa01,West,1962,NBA,False,New Orleans Jazz
+Wayne Embry,embrywa01,West,1962,NBA,False,Milwaukee Bucks
+Cliff Hagan,hagancl01,West,1962,NBA,False,Dallas Chaparrals
+Bailey Howell,howelba01,West,1962,NBA,False,Philadelphia 76ers
+Rudy LaRusso,larusru01,West,1962,NBA,True,San Francisco Warriors
+Bob Pettit,pettibo01,West,1962,NBA,False,St. Louis Hawks
+Oscar Robertson,roberos01,West,1962,NBA,False,Milwaukee Bucks
+Frank Selvy,selvyfr01,West,1962,NBA,False,Los Angeles Lakers
+Gene Shue,shuege01,West,1962,NBA,False,Baltimore Bullets
+Jack Twyman,twymaja01,West,1962,NBA,False,Cincinnati Royals
+Jerry West,westje01,West,1962,NBA,False,Los Angeles Lakers
+Paul Arizin,arizipa01,East,1961,NBA,False,Philadelphia Warriors
+Wilt Chamberlain,chambwi01,East,1961,NBA,False,Los Angeles Lakers
+Larry Costello,costela01,East,1961,NBA,False,Philadelphia 76ers
+Bob Cousy,cousybo01,East,1961,NBA,False,Cincinnati Royals
+Tom Gola,golato01,East,1961,NBA,False,New York Knicks
+Hal Greer,greerha01,East,1961,NBA,False,Philadelphia 76ers
+Richie Guerin,gueriri01,East,1961,NBA,False,Atlanta Hawks
+Tom Heinsohn,heinsto01,East,1961,NBA,False,Boston Celtics
+Willie Naulls,naullwi01,East,1961,NBA,False,Boston Celtics
+Bill Russell,russebi01,East,1961,NBA,False,Boston Celtics
+Dolph Schayes,schaydo01,East,1961,NBA,False,Philadelphia 76ers
+Elgin Baylor,bayloel01,West,1961,NBA,False,Los Angeles Lakers
+Walter Dukes,dukeswa01,West,1961,NBA,False,Detroit Pistons
+Wayne Embry,embrywa01,West,1961,NBA,False,Milwaukee Bucks
+Cliff Hagan,hagancl01,West,1961,NBA,False,Dallas Chaparrals
+Bailey Howell,howelba01,West,1961,NBA,False,Philadelphia 76ers
+Hot Rod Hundley,hundlho01,West,1961,NBA,False,Los Angeles Lakers
+Clyde Lovellette,lovelcl01,West,1961,NBA,False,Boston Celtics
+Bob Pettit,pettibo01,West,1961,NBA,False,St. Louis Hawks
+Oscar Robertson,roberos01,West,1961,NBA,False,Milwaukee Bucks
+Gene Shue,shuege01,West,1961,NBA,False,Baltimore Bullets
+Jerry West,westje01,West,1961,NBA,False,Los Angeles Lakers
+Paul Arizin,arizipa01,East,1960,NBA,True,Philadelphia Warriors
+Wilt Chamberlain,chambwi01,East,1960,NBA,False,Los Angeles Lakers
+Larry Costello,costela01,East,1960,NBA,False,Philadelphia 76ers
+Bob Cousy,cousybo01,East,1960,NBA,False,Cincinnati Royals
+Tom Gola,golato01,East,1960,NBA,True,New York Knicks
+Richie Guerin,gueriri01,East,1960,NBA,False,Atlanta Hawks
+Willie Naulls,naullwi01,East,1960,NBA,False,Boston Celtics
+Bill Russell,russebi01,East,1960,NBA,False,Boston Celtics
+Dolph Schayes,schaydo01,East,1960,NBA,False,Philadelphia 76ers
+Bill Sharman,sharmbi01,East,1960,NBA,False,Boston Celtics
+George Yardley,yardlge01,East,1960,NBA,False,Syracuse Nationals
+Elgin Baylor,bayloel01,West,1960,NBA,False,Los Angeles Lakers
+Walter Dukes,dukeswa01,West,1960,NBA,False,Detroit Pistons
+Dick Garmaker,garmadi01,West,1960,NBA,False,New York Knicks
+Cliff Hagan,hagancl01,West,1960,NBA,False,Dallas Chaparrals
+Hot Rod Hundley,hundlho01,West,1960,NBA,False,Los Angeles Lakers
+Clyde Lovellette,lovelcl01,West,1960,NBA,False,Boston Celtics
+Chuck Noble,noblech01,West,1960,NBA,False,Detroit Pistons
+Bob Pettit,pettibo01,West,1960,NBA,False,St. Louis Hawks
+Gene Shue,shuege01,West,1960,NBA,False,Baltimore Bullets
+Jack Twyman,twymaja01,West,1960,NBA,False,Cincinnati Royals
+Paul Arizin,arizipa01,East,1959,NBA,False,Philadelphia Warriors
+Larry Costello,costela01,East,1959,NBA,False,Philadelphia 76ers
+Bob Cousy,cousybo01,East,1959,NBA,False,Cincinnati Royals
+Richie Guerin,gueriri01,East,1959,NBA,False,Atlanta Hawks
+Red Kerr,kerrre01,East,1959,NBA,False,Baltimore Bullets
+Bill Russell,russebi01,East,1959,NBA,False,Boston Celtics
+Woody Sauldsberry,sauldwo01,East,1959,NBA,False,Boston Celtics
+Dolph Schayes,schaydo01,East,1959,NBA,False,Philadelphia 76ers
+Kenny Sears,searske01,East,1959,NBA,False,San Francisco Warriors
+Bill Sharman,sharmbi01,East,1959,NBA,False,Boston Celtics
+Elgin Baylor,bayloel01,West,1959,NBA,False,Los Angeles Lakers
+Larry Foust,foustla01,West,1959,NBA,False,St. Louis Hawks
+Dick Garmaker,garmadi01,West,1959,NBA,False,New York Knicks
+Cliff Hagan,hagancl01,West,1959,NBA,False,Dallas Chaparrals
+Slater Martin,martisl01,West,1959,NBA,False,St. Louis Hawks
+Dick McGuire,mcguidi01,West,1959,NBA,False,Detroit Pistons
+Bob Pettit,pettibo01,West,1959,NBA,False,St. Louis Hawks
+Gene Shue,shuege01,West,1959,NBA,False,Baltimore Bullets
+Jack Twyman,twymaja01,West,1959,NBA,False,Cincinnati Royals
+George Yardley,yardlge01,West,1959,NBA,False,Syracuse Nationals
+Paul Arizin,arizipa01,East,1958,NBA,False,Philadelphia Warriors
+Larry Costello,costela01,East,1958,NBA,False,Philadelphia 76ers
+Bob Cousy,cousybo01,East,1958,NBA,False,Cincinnati Royals
+Richie Guerin,gueriri01,East,1958,NBA,False,Atlanta Hawks
+Neil Johnston,johnsne01,East,1958,NBA,False,Philadelphia Warriors
+Willie Naulls,naullwi01,East,1958,NBA,False,Boston Celtics
+Bill Russell,russebi01,East,1958,NBA,False,Boston Celtics
+Dolph Schayes,schaydo01,East,1958,NBA,False,Philadelphia 76ers
+Kenny Sears,searske01,East,1958,NBA,False,San Francisco Warriors
+Bill Sharman,sharmbi01,East,1958,NBA,False,Boston Celtics
+Larry Foust,foustla01,West,1958,NBA,False,St. Louis Hawks
+Dick Garmaker,garmadi01,West,1958,NBA,False,New York Knicks
+Cliff Hagan,hagancl01,West,1958,NBA,True,Dallas Chaparrals
+Slater Martin,martisl01,West,1958,NBA,False,St. Louis Hawks
+Dick McGuire,mcguidi01,West,1958,NBA,False,Detroit Pistons
+Bob Pettit,pettibo01,West,1958,NBA,False,St. Louis Hawks
+Gene Shue,shuege01,West,1958,NBA,False,Baltimore Bullets
+Maurice Stokes,stokema01,West,1958,NBA,False,Cincinnati Royals
+Jack Twyman,twymaja01,West,1958,NBA,False,Cincinnati Royals
+George Yardley,yardlge01,West,1958,NBA,False,Syracuse Nationals
+Paul Arizin,arizipa01,East,1957,NBA,False,Philadelphia Warriors
+Carl Braun,braunca01,East,1957,NBA,False,Boston Celtics
+Nat Clifton,cliftna01,East,1957,NBA,False,Detroit Pistons
+Bob Cousy,cousybo01,East,1957,NBA,False,Cincinnati Royals
+Harry Gallatin,gallaha01,East,1957,NBA,False,Detroit Pistons
+Jack George,georgja01,East,1957,NBA,False,New York Knicks
+Tom Heinsohn,heinsto01,East,1957,NBA,False,Boston Celtics
+Neil Johnston,johnsne01,East,1957,NBA,False,Philadelphia Warriors
+Dolph Schayes,schaydo01,East,1957,NBA,False,Philadelphia 76ers
+Bill Sharman,sharmbi01,East,1957,NBA,False,Boston Celtics
+Dick Garmaker,garmadi01,West,1957,NBA,False,New York Knicks
+Mel Hutchins,hutchme01,West,1957,NBA,False,New York Knicks
+Clyde Lovellette,lovelcl01,West,1957,NBA,True,Boston Celtics
+Ed Macauley,macaued01,West,1957,NBA,False,St. Louis Hawks
+Slater Martin,martisl01,West,1957,NBA,False,St. Louis Hawks
+Vern Mikkelsen,mikkeve01,West,1957,NBA,True,Minneapolis Lakers
+Bob Pettit,pettibo01,West,1957,NBA,False,St. Louis Hawks
+Richie Regan,reganri01,West,1957,NBA,False,Cincinnati Royals
+Maurice Stokes,stokema01,West,1957,NBA,False,Cincinnati Royals
+Jack Twyman,twymaja01,West,1957,NBA,False,Cincinnati Royals
+George Yardley,yardlge01,West,1957,NBA,False,Syracuse Nationals
+Paul Arizin,arizipa01,East,1956,NBA,False,Philadelphia Warriors
+Carl Braun,braunca01,East,1956,NBA,True,Boston Celtics
+Bob Cousy,cousybo01,East,1956,NBA,False,Cincinnati Royals
+Harry Gallatin,gallaha01,East,1956,NBA,False,Detroit Pistons
+Jack George,georgja01,East,1956,NBA,False,New York Knicks
+Neil Johnston,johnsne01,East,1956,NBA,False,Philadelphia Warriors
+Red Kerr,kerrre01,East,1956,NBA,True,Baltimore Bullets
+Ed Macauley,macaued01,East,1956,NBA,False,St. Louis Hawks
+Dick McGuire,mcguidi01,East,1956,NBA,False,Detroit Pistons
+Dolph Schayes,schaydo01,East,1956,NBA,False,Philadelphia 76ers
+Bill Sharman,sharmbi01,East,1956,NBA,False,Boston Celtics
+Larry Foust,foustla01,West,1956,NBA,False,St. Louis Hawks
+Bob Harrison,harribo02,West,1956,NBA,False,Syracuse Nationals
+Mel Hutchins,hutchme01,West,1956,NBA,False,New York Knicks
+Clyde Lovellette,lovelcl01,West,1956,NBA,False,Boston Celtics
+Slater Martin,martisl01,West,1956,NBA,False,St. Louis Hawks
+Vern Mikkelsen,mikkeve01,West,1956,NBA,False,Minneapolis Lakers
+Bob Pettit,pettibo01,West,1956,NBA,False,St. Louis Hawks
+Maurice Stokes,stokema01,West,1956,NBA,False,Cincinnati Royals
+Bobby Wanzer,wanzebo01,West,1956,NBA,False,Rochester Royals
+George Yardley,yardlge01,West,1956,NBA,False,Syracuse Nationals
+Paul Arizin,arizipa01,East,1955,NBA,False,Philadelphia Warriors
+Carl Braun,braunca01,East,1955,NBA,False,Boston Celtics
+Bob Cousy,cousybo01,East,1955,NBA,False,Cincinnati Royals
+Harry Gallatin,gallaha01,East,1955,NBA,False,Detroit Pistons
+Neil Johnston,johnsne01,East,1955,NBA,False,Philadelphia Warriors
+Ed Macauley,macaued01,East,1955,NBA,False,St. Louis Hawks
+Dick McGuire,mcguidi01,East,1955,NBA,False,Detroit Pistons
+Dolph Schayes,schaydo01,East,1955,NBA,False,Philadelphia 76ers
+Paul Seymour,seymopa01,East,1955,NBA,False,Syracuse Nationals
+Bill Sharman,sharmbi01,East,1955,NBA,False,Boston Celtics
+Jack Coleman,colemja01,West,1955,NBA,True,St. Louis Hawks
+Larry Foust,foustla01,West,1955,NBA,False,St. Louis Hawks
+Slater Martin,martisl01,West,1955,NBA,False,St. Louis Hawks
+Vern Mikkelsen,mikkeve01,West,1955,NBA,False,Minneapolis Lakers
+Bob Pettit,pettibo01,West,1955,NBA,False,St. Louis Hawks
+Andy Phillip,phillan01,West,1955,NBA,False,Boston Celtics
+Jim Pollard,pollaji01,West,1955,NBA,False,Minneapolis Lakers
+Arnie Risen,risenar01,West,1955,NBA,True,Boston Celtics
+Frank Selvy,selvyfr01,West,1955,NBA,False,Los Angeles Lakers
+Bobby Wanzer,wanzebo01,West,1955,NBA,False,Rochester Royals
+George Yardley,yardlge01,West,1955,NBA,False,Syracuse Nationals
+Carl Braun,braunca01,East,1954,NBA,False,Boston Celtics
+Bob Cousy,cousybo01,East,1954,NBA,False,Cincinnati Royals
+Ray Felix,felixra01,East,1954,NBA,False,Los Angeles Lakers
+Harry Gallatin,gallaha01,East,1954,NBA,False,Detroit Pistons
+Neil Johnston,johnsne01,East,1954,NBA,False,Philadelphia Warriors
+Ed Macauley,macaued01,East,1954,NBA,False,St. Louis Hawks
+Dick McGuire,mcguidi01,East,1954,NBA,False,Detroit Pistons
+Dolph Schayes,schaydo01,East,1954,NBA,False,Philadelphia 76ers
+Paul Seymour,seymopa01,East,1954,NBA,False,Syracuse Nationals
+Bill Sharman,sharmbi01,East,1954,NBA,False,Boston Celtics
+Bob Davies,daviebo01,West,1954,NBA,False,Rochester Royals
+Larry Foust,foustla01,West,1954,NBA,False,St. Louis Hawks
+Mel Hutchins,hutchme01,West,1954,NBA,False,New York Knicks
+Slater Martin,martisl01,West,1954,NBA,False,St. Louis Hawks
+George Mikan,mikange01,West,1954,NBA,False,Minneapolis Lakers
+Jack Molinas,molinja01,West,1954,NBA,True,Fort Wayne Pistons
+Andy Phillip,phillan01,West,1954,NBA,True,Boston Celtics
+Jim Pollard,pollaji01,West,1954,NBA,False,Minneapolis Lakers
+Arnie Risen,risenar01,West,1954,NBA,False,Boston Celtics
+Don Sunderlage,sundedo01,West,1954,NBA,False,Minneapolis Lakers
+Bobby Wanzer,wanzebo01,West,1954,NBA,False,Rochester Royals
+Don Barksdale,barksdo01,East,1953,NBA,False,Boston Celtics
+Carl Braun,braunca01,East,1953,NBA,False,Boston Celtics
+Bob Cousy,cousybo01,East,1953,NBA,False,Cincinnati Royals
+Bill Gabor,gaborbi01,East,1953,NBA,True,Syracuse Nationals
+Harry Gallatin,gallaha01,East,1953,NBA,False,Detroit Pistons
+Neil Johnston,johnsne01,East,1953,NBA,False,Philadelphia Warriors
+Ed Macauley,macaued01,East,1953,NBA,False,St. Louis Hawks
+Dolph Schayes,schaydo01,East,1953,NBA,False,Philadelphia 76ers
+Fred Scolari,scolafr01,East,1953,NBA,True,Boston Celtics
+Paul Seymour,seymopa01,East,1953,NBA,False,Syracuse Nationals
+Bill Sharman,sharmbi01,East,1953,NBA,False,Boston Celtics
+Leo Barnhorst,barnhle01,West,1953,NBA,False,
+Bob Davies,daviebo01,West,1953,NBA,False,Rochester Royals
+Larry Foust,foustla01,West,1953,NBA,False,St. Louis Hawks
+Mel Hutchins,hutchme01,West,1953,NBA,False,New York Knicks
+Slater Martin,martisl01,West,1953,NBA,False,St. Louis Hawks
+George Mikan,mikange01,West,1953,NBA,False,Minneapolis Lakers
+Vern Mikkelsen,mikkeve01,West,1953,NBA,False,Minneapolis Lakers
+Andy Phillip,phillan01,West,1953,NBA,False,Boston Celtics
+Arnie Risen,risenar01,West,1953,NBA,False,Boston Celtics
+Bobby Wanzer,wanzebo01,West,1953,NBA,False,Rochester Royals
+Paul Arizin,arizipa01,East,1952,NBA,False,Philadelphia Warriors
+Bob Cousy,cousybo01,East,1952,NBA,False,Cincinnati Royals
+Joe Fulks,fulksjo01,East,1952,NBA,False,Philadelphia Warriors
+Harry Gallatin,gallaha01,East,1952,NBA,True,Detroit Pistons
+Ed Macauley,macaued01,East,1952,NBA,False,St. Louis Hawks
+Dick McGuire,mcguidi01,East,1952,NBA,False,Detroit Pistons
+Andy Phillip,phillan01,East,1952,NBA,False,Boston Celtics
+Red Rocha,rochare01,East,1952,NBA,False,Fort Wayne Pistons
+Dolph Schayes,schaydo01,East,1952,NBA,True,Philadelphia 76ers
+Fred Scolari,scolafr01,East,1952,NBA,False,Boston Celtics
+Max Zaslofsky,zasloma01,East,1952,NBA,False,Fort Wayne Pistons
+Leo Barnhorst,barnhle01,West,1952,NBA,False,
+Frankie Brian,brianfr01,West,1952,NBA,False,Fort Wayne Pistons
+Bob Davies,daviebo01,West,1952,NBA,False,Rochester Royals
+Dike Eddleman,eddledi01,West,1952,NBA,False,Fort Wayne Pistons
+Larry Foust,foustla01,West,1952,NBA,True,St. Louis Hawks
+George Mikan,mikange01,West,1952,NBA,False,Minneapolis Lakers
+Vern Mikkelsen,mikkeve01,West,1952,NBA,False,Minneapolis Lakers
+Jim Pollard,pollaji01,West,1952,NBA,False,Minneapolis Lakers
+Arnie Risen,risenar01,West,1952,NBA,True,Boston Celtics
+Paul Walther,walthpa01,West,1952,NBA,False,Fort Wayne Pistons
+Bobby Wanzer,wanzebo01,West,1952,NBA,False,Rochester Royals
+Paul Arizin,arizipa01,East,1951,NBA,False,Philadelphia Warriors
+Vince Boryla,borylvi01,East,1951,NBA,False,New York Knicks
+Bob Cousy,cousybo01,East,1951,NBA,False,Cincinnati Royals
+Joe Fulks,fulksjo01,East,1951,NBA,False,Philadelphia Warriors
+Harry Gallatin,gallaha01,East,1951,NBA,False,Detroit Pistons
+Ed Macauley,macaued01,East,1951,NBA,False,St. Louis Hawks
+Dick McGuire,mcguidi01,East,1951,NBA,False,Detroit Pistons
+Andy Phillip,phillan01,East,1951,NBA,False,Boston Celtics
+Red Rocha,rochare01,East,1951,NBA,False,Fort Wayne Pistons
+Dolph Schayes,schaydo01,East,1951,NBA,False,Philadelphia 76ers
+Ralph Beard,beardra01,West,1951,NBA,False,Indianapolis Olympians
+Frankie Brian,brianfr01,West,1951,NBA,False,Fort Wayne Pistons
+Bob Davies,daviebo01,West,1951,NBA,False,Rochester Royals
+Dike Eddleman,eddledi01,West,1951,NBA,False,Fort Wayne Pistons
+Larry Foust,foustla01,West,1951,NBA,False,St. Louis Hawks
+Alex Groza,grozaal01,West,1951,NBA,False,Indianapolis Olympians
+George Mikan,mikange01,West,1951,NBA,False,Minneapolis Lakers
+Vern Mikkelsen,mikkeve01,West,1951,NBA,False,Minneapolis Lakers
+Jim Pollard,pollaji01,West,1951,NBA,False,Minneapolis Lakers
+Fred Schaus,schaufr01,West,1951,NBA,False,
