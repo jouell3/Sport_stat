@@ -1,4 +1,5 @@
 import streamlit as st
+import plotly.graph_objects as go
 from utils.data_loader import load_all_data, load_stat_dict, load_university_rankings
 import pandas as pd
 
