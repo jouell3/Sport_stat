@@ -1,5 +1,4 @@
 import streamlit as st
-import plotly.express as px
 from utils.data_loader import load_all_data, load_stat_dict, load_university_rankings
 import pandas as pd
 
