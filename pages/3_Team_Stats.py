@@ -1,10 +1,10 @@
 import streamlit as st
-from utils.data_loader import load_all_data, load_stat_dict
+from utils.data_loader import load_all_data, load_nba_stat_definitions
 
 st.title("Team Statistics")
 
 _, df_teams, _, _ = load_all_data()
-stat_dict = load_stat_dict()
+stat_dict = load_nba_stat_definitions()
 
 teams = df_teams['team'].unique()
 years = sorted(df_teams['season'].unique())

@@ -1,7 +1,5 @@
 import os
 import pandas as pd
-import numpy as np
-import pickle
 import streamlit as st
 
 # Paths to data
@@ -13,7 +11,9 @@ TEAM_TOTALS = os.path.join(DATA_DIR, 'Team Totals.csv')
 DRAFT_HISTORY = os.path.join(DATA_DIR, 'Draft Pick History.csv')
 ALL_STAR = os.path.join(DATA_DIR, 'All-Star Selections.csv')
 STAT_DICT = os.path.join(DATA_DIR, 'nba_stat_dict.npy')
-UNIV_RANK_PICKLE = os.path.join(CACHE_DIR, 'university_rankings.pkl')
+UNIV_RANK = os.path.join(DATA_DIR, 'University Rankings.csv')
+UNIV_RANGE = os.path.join(DATA_DIR, 'University Rankings by Range.csv')
+NBA_STAT_DEF = os.path.join(DATA_DIR, 'nba_stat_definitions.csv')
 
 @st.cache_data(show_spinner=False)
 def load_all_data():
@@ -24,29 +24,13 @@ def load_all_data():
     return df_players, df_teams, df_draft, df_all_star
 
 @st.cache_data(show_spinner=False)
-def load_stat_dict():
-    # Loads the column definitions from the .npy file
-    return np.load(STAT_DICT, allow_pickle=True).item()
+def load_university_rankings():
+    df_rankings = pd.read_csv(UNIV_RANK, index_col=0)
+    df_range = pd.read_csv(UNIV_RANGE, index_col=0)
+    return df_rankings, df_range
 
 @st.cache_data(show_spinner=False)
-def compute_university_rankings(df_draft):
-    # Top 10 universities by total picks
-    top_univ = df_draft['college'].value_counts().sort_values(ascending=False)
-    # Picks by rank range (1-5, 6-10, ...)
-    bins = list(range(1, 61, 5))
-    labels = [f"{i}-{i+4}" for i in bins]
-    df_draft = df_draft.copy()
-    df_draft['rank_range'] = pd.cut(df_draft['overall_pick'], bins=bins+[np.inf], labels=labels, right=False)
-    univ_by_range = df_draft.groupby(['college', 'rank_range']).size().unstack(fill_value=0)
-    return top_univ, univ_by_range
-
-def save_university_rankings(top_univ, univ_by_range):
-    with open(UNIV_RANK_PICKLE, 'wb') as f:
-        pickle.dump({'top_univ': top_univ, 'univ_by_range': univ_by_range}, f)
-
-def load_university_rankings():
-    if os.path.exists(UNIV_RANK_PICKLE):
-        with open(UNIV_RANK_PICKLE, 'rb') as f:
-            data = pickle.load(f)
-        return data['top_univ'], data['univ_by_range']
-    return None, None
+def load_nba_stat_definitions():
+    df_nbsa_stat_def = pd.read_csv(NBA_STAT_DEF, index_col=0)
+    nba_deff_dict = df_nbsa_stat_def[["abbreviation", "Description"]].set_index("abbreviation").to_dict()["Description"]
+    return nba_deff_dict

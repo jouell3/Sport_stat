@@ -3,12 +3,12 @@ import streamlit as st
 import plotly.graph_objects as go
 from plotly.subplots import make_subplots
 import pandas as pd
-from utils.data_loader import load_all_data, load_stat_dict
+from utils.data_loader import load_all_data, load_nba_stat_definitions
 
 st.title("Player Search & Statistics")
 
 df_players, _, _, _ = load_all_data()
-stat_dict = load_stat_dict()
+stat_dict = load_nba_stat_definitions()
 
 def create_metric_subplots(player_stats, metrics2, metrics, player_name):
     """Create subplots for each metric selected"""
@@ -18,7 +18,7 @@ def create_metric_subplots(player_stats, metrics2, metrics, player_name):
         rows=int(len(metrics)/2) + len(metrics)%2,
         cols=2,
         subplot_titles=metrics2,
-        vertical_spacing=0.05,
+        #vertical_spacing=0.05,
     )
     j =1
     k = 0

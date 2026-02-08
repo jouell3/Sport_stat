@@ -3,12 +3,12 @@ import plotly.graph_objects as go
 from plotly.subplots import make_subplots
 import pandas as pd
 import random
-from utils.data_loader import load_all_data, load_stat_dict
+from utils.data_loader import load_all_data, load_nba_stat_definitions
 
 st.title("Team Roster Statistics")
 
 df_players, _, _, _ = load_all_data()
-stat_dict = load_stat_dict()
+stat_dict = load_nba_stat_definitions()
 
 def create_roster_metric_subplots(roster_stats, metrics2, metrics, player_names):
     """Create subplots for each metric selected with players on X axis"""

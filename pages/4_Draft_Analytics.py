@@ -1,12 +1,10 @@
 import streamlit as st
-import plotly.graph_objects as go
-from utils.data_loader import load_all_data, load_stat_dict, load_university_rankings
-import pandas as pd
+import plotly.express as px
+from utils.data_loader import load_all_data, load_university_rankings
 
 st.title("Draft Analytics & University Rankings")
 
 _, _, df_draft, _ = load_all_data()
-stat_dict = load_stat_dict()
 top_univ, univ_by_range = load_university_rankings()
 
 # Bar chart: Top 10 universities by total picks
@@ -48,7 +46,4 @@ if not filtered.empty:
 else:
     st.warning("No draft data for this year and round.")
 
-st.markdown("### Column Definitions")
-for col in df_draft.columns:
-    desc = stat_dict.get(col, "No description available.")
-    st.write(f"**{col}**: {desc}")
+

@@ -3,12 +3,12 @@ import plotly.graph_objects as go
 from plotly.subplots import make_subplots
 import pandas as pd
 import random
-from utils.data_loader import load_all_data, load_stat_dict
+from utils.data_loader import load_all_data, load_nba_stat_definitions
 
 st.title("All Star Games Selection")
 
 _, _, _, df_all_star = load_all_data()  # Load the All Star Games data
-stat_dict = load_stat_dict()
+stat_dict = load_nba_stat_definitions()
 
 #Year selection
 years = sorted(df_all_star['season'].unique(), reverse=True)
