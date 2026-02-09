@@ -14,6 +14,9 @@ STAT_DICT = os.path.join(DATA_DIR, 'nba_stat_dict.npy')
 UNIV_RANK = os.path.join(DATA_DIR, 'University Rankings.csv')
 UNIV_RANGE = os.path.join(DATA_DIR, 'University Rankings by Range.csv')
 NBA_STAT_DEF = os.path.join(DATA_DIR, 'nba_stat_definitions.csv')
+AWARDS = os.path.join(DATA_DIR, 'Player Award Shares.csv')
+SALARIES = os.path.join(DATA_DIR, 'salaries.csv')
+TEAM_SALARY = os.path.join(DATA_DIR, 'team_salaries.csv')
 
 @st.cache_data(show_spinner=False)
 def load_all_data():
@@ -34,3 +37,14 @@ def load_nba_stat_definitions():
     df_nbsa_stat_def = pd.read_csv(NBA_STAT_DEF, index_col=0)
     nba_deff_dict = df_nbsa_stat_def[["abbreviation", "Description"]].set_index("abbreviation").to_dict()["Description"]
     return nba_deff_dict
+
+@st.cache_data(show_spinner=False)
+def load_awards_data():
+    df_awards = pd.read_csv(AWARDS)
+    return df_awards
+
+@st.cache_data(show_spinner=False)
+def load_team_salaries():
+    df_salaries = pd.read_csv(SALARIES)
+    df_team_salaries = pd.read_csv(TEAM_SALARY)
+    return df_salaries, df_team_salaries
