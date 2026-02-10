@@ -56,7 +56,7 @@ if search:
     if len(matches) == 0:
         st.warning("No players found. Please refine your search.")
     elif len(matches) == 1:
-        player = matches.iloc[0]['player']
+        player = matches[0]
         st.success(f"Found: {player}")
         player_stats = df_players[df_players['player'] == player].sort_values('season')
         
