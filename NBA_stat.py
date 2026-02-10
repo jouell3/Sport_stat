@@ -1,4 +1,5 @@
 import streamlit as st
+from streamlit_extras.let_it_rain import rain
 from utils.data_loader import load_all_data, load_university_rankings
 
 st.set_page_config(page_title="NBA Stats Explorer", layout="wide")
@@ -9,6 +10,13 @@ df_players, df_teams, df_draft, df_all_star = load_all_data()
 
 #load university rankings (cached)
 top_univ, univ_by_range = load_university_rankings()
+
+rain(
+    emoji="🏀",
+    font_size=54,
+    falling_speed=5,
+    animation_length="infinite"
+)
 
 st.markdown("""
 Welcome to the NBA Stats Explorer! Use the sidebar to navigate between pages:
