@@ -76,11 +76,15 @@ if search:
         table = player_stats.set_index('season')[metrics]
         sum_row = pd.DataFrame([table.sum()], index=['Total'])
         games_played = player_stats['g'].sum()
-        if games_played:
+        if games_played > 1:
             avg_row = pd.DataFrame([table.sum() / games_played], index=['Per Game Avg'])
             table = pd.concat([table, sum_row, avg_row])
+            table.rename_axis(index='Season', inplace=True)
+            table.rename(columns={m: stat_dict.get(m, m) for m in metrics}, inplace=True)
         else:
             table = pd.concat([table, sum_row])
+            table.rename_axis(index='Season', inplace=True)
+            table.rename(columns={m: stat_dict.get(m, m) for m in metrics}, inplace=True)
         # Style the summary rows
         def highlight_summary(row):
             if row.name in ['Total', 'Per Game Avg']:
