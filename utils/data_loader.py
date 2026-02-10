@@ -15,7 +15,7 @@ UNIV_RANK = os.path.join(DATA_DIR, 'University Rankings.csv')
 UNIV_RANGE = os.path.join(DATA_DIR, 'University Rankings by Range.csv')
 NBA_STAT_DEF = os.path.join(DATA_DIR, 'nba_stat_definitions.csv')
 AWARDS = os.path.join(DATA_DIR, 'Player Award Shares.csv')
-SALARIES = os.path.join(DATA_DIR, 'salaries.csv')
+SALARIES = os.path.join(DATA_DIR, 'players_salary_updated2.csv')
 TEAM_SALARY = os.path.join(DATA_DIR, 'team_salaries.csv')
 
 @st.cache_data(show_spinner=False)
