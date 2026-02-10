@@ -48,7 +48,7 @@ def create_metric_subplots(player_stats, metrics2, metrics, player_name):
     return fig
 
 # --- Player search ---
-search = st.text_input("Enter player name (partial match, case-insensitive):")
+search = st.text_input("Enter player name (partial match (Surname or name only), case-insensitive):")
 if search:
     list_players = df_players['player'].unique()
     matches = list_players[pd.Series(list_players).str.contains(search, case=False, na=False)]
