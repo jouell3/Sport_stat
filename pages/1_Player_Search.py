@@ -65,7 +65,8 @@ if search:
         player_stats = player_stats.groupby('season', as_index=False)[numeric_cols_to_sum].sum()
         
         # --- Metric selection ---
-        numeric_cols = [col for col in player_stats.columns if player_stats[col].dtype != 'O' and col not in ['season']]
+        numeric_cols2 = [col for col in player_stats.columns if player_stats[col].dtype != 'O' and col not in ['season']]
+        numeric_cols = [value for key, value in stat_dict.items() if key in numeric_cols2]
         metrics2 = st.multiselect("Select metrics to display (bar chart):", numeric_cols, default=numeric_cols[1])
         if metrics2:
             metrics = [key for key, value in stat_dict.items() if value in metrics2]
