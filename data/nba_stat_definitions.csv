@@ -26,7 +26,7 @@
 24,drb,Defensive rebounds
 25,trb,Total rebounds
 26,abbreviation,Team 3-letter abbreviation
-27,playoffs,"Participated in playoffs (1 = Yes, 0 = No)"
+27,playoffs,Participated in playoffs
 28,ast,Assists
 29,stl,Steals
 30,blk,Blocks
@@ -34,3 +34,11 @@
 32,pf,Personal fouls
 33,pts,Points scored
 34,trp_dbl,Number of triple‑doubles recorded
+35,season_type,Type of season (Regular or Playoffs)
+36,nba clutch_poy,NBA Clutch Player of the Year
+37,nba dpoy,NBA Defensive Player of the Year
+38,nba mip,NBA Most Improved Player
+39,nba mvp, NBA Most Valuable Player
+40,nba roy,NBA Rookie of the Year
+41,nba smoy,NBA Sixth Man of the Year
+
