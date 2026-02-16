@@ -88,7 +88,7 @@ if selected_year:
 
     # Home Colors
     st.write(f"#### :blue[{team2}]")
-    list_playoff_labels = games_team_year['gameLabel'].unique()[::-1]
+    list_playoff_labels = games_team_year['gameLabel'].unique()
     home_colors_html = ""
     for label in list_playoff_labels:
         color = home_label_colors.get(label, default_color)
