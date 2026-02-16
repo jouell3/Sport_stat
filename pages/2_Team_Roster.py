@@ -4,7 +4,7 @@ from plotly.subplots import make_subplots
 import pandas as pd
 import random
 from utils.data_loader import load_all_data, load_nba_stat_definitions
-from utils.figure_constructor import create_roster_metric_subplots
+from utils.figure_constructor2 import create_roster_metric_subplots
 
 st.title("Team Roster Statistics")
 

@@ -4,7 +4,7 @@ from plotly.subplots import make_subplots
 import pandas as pd
 import numpy as np
 from utils.data_loader import load_games, load_team_id_name_dict
-from utils.figure_constructor import regular_season_figure
+from utils.figure_constructor2 import regular_season_figure
 
 
 df_games_regular = load_games()

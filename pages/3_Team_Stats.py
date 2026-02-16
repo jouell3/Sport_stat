@@ -3,7 +3,7 @@ import streamlit as st
 import plotly.graph_objects as go
 from plotly.subplots import make_subplots
 from utils.data_loader import load_all_data, load_nba_stat_definitions
-from utils.figure_constructor import create_metric_subplots
+from utils.figure_constructor2 import create_metric_subplots
 
 st.title("Team Statistics")
 

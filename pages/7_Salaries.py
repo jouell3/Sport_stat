@@ -4,7 +4,7 @@ from plotly.subplots import make_subplots
 import pandas as pd
 import numpy as np
 from utils.data_loader import load_team_salaries
-from utils.figure_constructor import salary_figure, total_salary_figure
+from utils.figure_constructor2 import salary_figure, total_salary_figure
 
 df_salaries, df_team_salaries = load_team_salaries()
 

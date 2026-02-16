@@ -5,7 +5,7 @@ from plotly.subplots import make_subplots
 import pandas as pd
 import numpy as np
 from utils.data_loader import load_all_data, load_nba_stat_definitions
-from utils.figure_constructor import create_metric_subplots
+from utils.figure_constructor2 import create_metric_subplots
 
 st.title("Player Search & Statistics")
 

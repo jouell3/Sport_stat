@@ -4,7 +4,7 @@ from plotly.subplots import make_subplots
 import pandas as pd
 import numpy as np
 from utils.data_loader import load_games, load_team_id_name_dict
-from utils.figure_constructor import final_figure, first_round_figure, semi_round_figure, conf_round_figure
+from utils.figure_constructor2 import final_figure, first_round_figure, semi_round_figure, conf_round_figure
 
 df_games_playoff = load_games()
 df_games = df_games_playoff[(df_games_playoff["gameType"] == "Playoffs")]
