@@ -12,7 +12,8 @@ stat_dict = load_nba_stat_definitions()
 
 #Year selection
 years = sorted(df_all_star['season'].unique(), reverse=True)
-year = st.selectbox("Select a year:", years)
+st.markdown("### Select a year to view the All Star Game players and their original teams.")
+year = st.selectbox("Select a year:", years, label_visibility="collapsed")
 
 east = df_all_star[df_all_star['season'] == year][df_all_star['team'] == 'East'].reset_index(drop=True)   
 west = df_all_star[df_all_star['season'] == year][df_all_star['team'] == 'West'].reset_index(drop=True)
@@ -28,6 +29,13 @@ st.table(table_data)
 teams_count_east = east_all.value_counts()[:20] # Get the top 20 teams by All Star selections in the East
 teams_count_west = west_all.value_counts()[:20] # Get the top 20 teams by All Star selections in the West
 
+st.text("\n")
+st.text("\n")
+
+st.text("\n")
+st.text("\n")
+
+st.markdown("### Top 20 Teams by All Star Selections")
 #graph_east = px.bar(x=teams_count_east.index, y=teams_count_east.values, labels={'x': 'Team', 'y': 'Number of Selections'}, title='East All Star Selections by Team')   
 #graph_west = px.bar(x=teams_count_west.index, y=teams_count_west.values, labels={'x': 'Team', 'y': 'Number of Selections'}, title='West All Star Selections by Team')
 fig = make_subplots(rows=1, cols=2, subplot_titles=["East All Star Selections by Team", "West All Star Selections by Team"])

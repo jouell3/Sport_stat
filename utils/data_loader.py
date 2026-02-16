@@ -1,6 +1,7 @@
 import os
 import pandas as pd
 import streamlit as st
+import pickle
 
 # Paths to data
 DATA_DIR = os.path.join(os.path.dirname(__file__), '../data')
@@ -17,6 +18,8 @@ NBA_STAT_DEF = os.path.join(DATA_DIR, 'nba_stat_definitions.csv')
 AWARDS = os.path.join(DATA_DIR, 'Player Award Shares.csv')
 SALARIES = os.path.join(DATA_DIR, 'players_salary_updated2.csv')
 TEAM_SALARY = os.path.join(DATA_DIR, 'team_salaries.csv')
+GAMES_STATS = os.path.join(DATA_DIR, 'Games.csv')
+DICT_TEAMID_TEAMNAME = os.path.join(DATA_DIR, 'dict_teamID.pkl')
 
 @st.cache_data(show_spinner=False)
 def load_all_data():
@@ -48,3 +51,14 @@ def load_team_salaries():
     df_salaries = pd.read_csv(SALARIES)
     df_team_salaries = pd.read_csv(TEAM_SALARY)
     return df_salaries, df_team_salaries
+
+st.cache_data(show_spinner=False)
+def load_games():
+    df_games = pd.read_csv(GAMES_STATS, low_memory=False)
+    return df_games
+
+st.cache_data(show_spinner=False)
+def load_team_id_name_dict():
+    with open(DICT_TEAMID_TEAMNAME, 'rb') as f:
+        dict_teamID = pickle.load(f)
+    return dict_teamID

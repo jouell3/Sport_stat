@@ -8,8 +8,11 @@ _, _, df_draft, _ = load_all_data()
 top_univ, univ_by_range = load_university_rankings()
 
 # Bar chart: Top 10 universities by total picks
-num_univ = st.slider("Select number of top universities to display:", min_value=5, max_value=30, value=10)
-years = st.slider("Select draft year range:", min_value=int(df_draft['season'].min()), max_value=int(df_draft['season'].max()), value=(int(df_draft['season'].min()), int(df_draft['season'].max())))
+st.markdown("### University Rankings and Draft Analytics")
+st.markdown("##### Select the number of top universities and draft year range to analyze the draft picks from those universities.")
+num_univ = st.slider("Select number of top universities to display:", min_value=5, max_value=30, value=10, label_visibility="collapsed")
+
+years = st.slider("Select draft year range:", min_value=int(df_draft['season'].min()), max_value=int(df_draft['season'].max()), value=(int(df_draft['season'].min()), int(df_draft['season'].max())), label_visibility="collapsed")
 
 st.markdown(f"#### Top {num_univ} Universities by Total Draft Picks")
 if top_univ is not None:
@@ -33,11 +36,12 @@ else:
 
 # Year and round selection for draft 
 st.markdown("#### Explore Draft Picks by Year and Round")
+st.markdown("##### Select a draft year and round to see the players drafted in that round and year, along with their colleges.")
 years = sorted(df_draft['season'].unique(), reverse=True)
 rounds = sorted(df_draft['round'].dropna().unique())
 
-year = st.selectbox("Select draft year:", years)
-draft_round = st.selectbox("Select draft round:", rounds)
+year = st.selectbox("Select draft year:", years, label_visibility="collapsed")
+draft_round = st.selectbox("Select draft round:", rounds, label_visibility="collapsed")
 
 filtered = df_draft[(df_draft['season'] == year) & (df_draft['round'] == draft_round)].reset_index(drop=True)
 if not filtered.empty:

@@ -13,20 +13,23 @@ stat_dict = load_nba_stat_definitions()
 award_options = df_awards['award'].unique()
 award_options = [award for award in award_options if "nba" in award]
 award_options2 = [stat_dict.get(award, award) for award in award_options]
-selected_award2 = st.selectbox("Select an award to explore:", award_options2) 
+st.markdown("#### Explore NBA Awards -- Select an award and a year to see the recipients and their award shares.")
+selected_award2 = st.selectbox("Select an award to explore:", award_options2, label_visibility="collapsed") 
 selected_award = award_options[award_options2.index(selected_award2)]
 
 years = sorted(df_awards['season'].unique(), reverse=True)
-year = st.selectbox("Select a year:", years)
+year = st.selectbox("Select a year:", years, label_visibility="collapsed")
 
 if selected_award and year:
     award_data = df_awards[(df_awards['award'] == selected_award) & (df_awards['season'] == year)]
     if len(award_data) == 0:
         st.warning(f"No data found for {selected_award2} in {year}.")
     else:
-        st.success(f"Found {len(award_data)} recipients for {selected_award2} in {year}.")
+        st.success(f"Here is the list of players for the {selected_award2} in {year}. The player with the highest award share is the recipient of the award for that season.")
         fig = go.Figure(data=[go.Bar(x=award_data['player'], y=award_data['share'], marker_color='gold')])
-        fig.update_layout(title=f"{selected_award2} Recipients in {year}", xaxis_title="Player", yaxis_title="Award Share", showlegend=False)
+        fig.update_layout(title=f"{selected_award2} Recipients in {year}", 
+                          title_font=dict(size=26), xaxis_title="Player", yaxis_title="Award Share", showlegend=False)
+        fig.update_xaxes(title_font=dict(size=24, family='Gravitas One', color='white'), tickfont=dict(size=14, color='white'), tickangle=45)
         st.plotly_chart(fig, use_container_width=True)
         
 if selected_award == "nba mvp":
@@ -64,6 +67,9 @@ elif selected_award == "nba clutch_poy":
     
 df_winners = df_awards[df_awards["winner"] == True].groupby(["player", "award"]).size().reset_index(name="wins")
 df_winners["award"] = df_winners["award"].apply(lambda x: stat_dict.get(x, x))
+df_winners["Years won"] = df_awards[df_awards["winner"] == True].groupby(["player", "award"])["season"].apply(lambda x: ", ".join(map(str, sorted(x.unique())))).reset_index(name="years")["years"]
 df_winners = df_winners.sort_values("wins", ascending=False).reset_index(drop=True)
 st.subheader("Top Award Winners")
 st.dataframe(df_winners, hide_index=True)
+
+

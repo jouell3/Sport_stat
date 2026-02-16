@@ -4,47 +4,20 @@ from plotly.subplots import make_subplots
 import pandas as pd
 import random
 from utils.data_loader import load_all_data, load_nba_stat_definitions
+from utils.figure_constructor import create_roster_metric_subplots
 
 st.title("Team Roster Statistics")
 
 df_players, _, _, _ = load_all_data()
 stat_dict = load_nba_stat_definitions()
 
-def create_roster_metric_subplots(roster_stats, metrics2, metrics, player_names):
-    """Create subplots for each metric selected with players on X axis"""
-    list_colors = ['steelblue', 'indianred', 'seagreen', 'mediumpurple', 'darkorange', 'teal', 'crimson', 'navy', 'darkcyan', 'goldenrod', 'slateblue', 'coral']
-    
-    fig = make_subplots(
-        rows=len(metrics),
-        cols=1,
-        subplot_titles=metrics2,
-        #vertical_spacing=0.005 * len(metrics)  # Adjust spacing based on number of metrics
-    )
-    
-    for i, metric in enumerate(metrics, 1):
-        fig.add_trace(
-            go.Bar(
-                x=player_names,
-                y=roster_stats[metric],
-                name=metric,
-                marker=dict(color=random.choice(list_colors))
-            ),
-            row=i,
-            col=1
-        )
-    
-    fig.update_xaxes(title_text="Players", row=len(metrics), col=1)
-    fig.update_yaxes(title_text="Value", col=1)
-    fig.update_layout(height=400 * len(metrics), title_text="Team Roster - Statistics by Metric", showlegend=False)
-    
-    return fig
-
 # --- Team and Year selection ---
 teams = df_players['full_team_name'].unique()
-team = st.selectbox("Select a team:", teams)
+st.markdown("### Select a team and a year to view roster statistics:")
+team = st.selectbox("Select a team:", teams, label_visibility="collapsed")
 
 years = sorted(df_players[df_players['full_team_name'] == team]['season'].unique(), reverse=True)
-year = st.selectbox("Select a year:", years)
+year = st.selectbox("Select a year:", years, label_visibility="collapsed")
 
 # Filter players for the selected team and year
 roster = df_players[(df_players['full_team_name'] == team) & (df_players['season'] == year)].sort_values(by="player", key=lambda x: x.str.split().str[-1])  # Sort by last name
